@@ -1,0 +1,9 @@
+Line 28: Class TabDlg.SSTab of control SSTab1 was not a loaded control class.
+Line 325: Class MSComctlLib.ListView of control lstOrigem was not a loaded control class.
+Line 377: Class MSComctlLib.ListView of control lstDestino was not a loaded control class.
+Line 429: Class MSComctlLib.ListView of control lstTransf was not a loaded control class.
+Line 529: Class MSMask.MaskEdBox of control txtCNPJCPF was not a loaded control class.
+Line 550: Class MSFlexGridLib.MSFlexGrid of control MSFlexGrid1 was not a loaded control class.
+Line 653: Class MSComctlLib.Toolbar of control Toolbar1 was not a loaded control class.
+Line 725: Class MSComctlLib.ImageList of control ImageList2 was not a loaded control class.
+Line 784: Class ActiveResizer.SSResizer of control SSResizer1 was not a loaded control class.

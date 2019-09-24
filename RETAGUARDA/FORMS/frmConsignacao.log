@@ -1,0 +1,11 @@
+Line 16: Property Icon in frmConsignacao had an invalid file reference.
+Line 48: Property Picture in cmdEmpresa had an invalid file reference.
+Line 67: Property Picture in cmdPesquisaCliente had an invalid file reference.
+Line 400: Property Picture in cmdLimpar had an invalid file reference.
+Line 411: Property Picture in cmdAjuda had an invalid file reference.
+Line 438: Property Picture in cmdImprimir had an invalid file reference.
+Line 449: Property Picture in cmdPesquisar had an invalid file reference.
+Line 460: Property Picture in cmdDevolver had an invalid file reference.
+Line 471: Property Picture in cmdFaturar had an invalid file reference.
+Line 1173: Property Picture in cmdProduto had an invalid file reference.
+Line 1239: Property Bindings in dtcProduto had an invalid file reference.

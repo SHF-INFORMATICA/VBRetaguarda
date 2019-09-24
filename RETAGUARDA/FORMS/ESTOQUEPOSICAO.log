@@ -1,0 +1,7 @@
+Line 28: Class PVMaskEditLib.PVMaskEdit of control txtCNPJCPF was not a loaded control class.
+Line 193: Class MSComctlLib.Toolbar of control Toolbar1 was not a loaded control class.
+Line 255: Class MSComctlLib.ImageList of control ImageList2 was not a loaded control class.
+Line 290: Class ActiveResizer.SSResizer of control SSResizer1 was not a loaded control class.
+Line 301: Class MSMask.MaskEdBox of control txtDtIni was not a loaded control class.
+Line 314: Class MSMask.MaskEdBox of control txtDtFim was not a loaded control class.
+Line 327: Class MSComctlLib.ListView of control lstGeral was not a loaded control class.

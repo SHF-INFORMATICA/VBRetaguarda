@@ -1,0 +1,11 @@
+Line 29: Class PVMaskEditLib.PVMaskEdit of control txtDtIni was not a loaded control class.
+Line 45: Class PVMaskEditLib.PVMaskEdit of control txtDtFim was not a loaded control class.
+Line 61: Class Threed.SSCommand of control optID was not a loaded control class.
+Line 86: Class MSDataGridLib.DataGrid of control grdERROS was not a loaded control class.
+Line 151: Class MSComctlLib.Toolbar of control Toolbar1 was not a loaded control class.
+Line 187: Class Threed.SSCheck of control chkOrdem was not a loaded control class.
+Line 198: Class MSComctlLib.ImageList of control ImageList2 was not a loaded control class.
+Line 225: Class MSAdodcLib.Adodc of control adoERROS was not a loaded control class.
+Line 271: Class ActiveResizer.SSResizer of control SSResizer1 was not a loaded control class.
+Line 282: Class Threed.SSCommand of control optData was not a loaded control class.
+Line 293: Class Threed.SSCommand of control optDesc was not a loaded control class.

@@ -1,0 +1,7 @@
+Line 27: Class TabDlg.SSTab of control stbInventario was not a loaded control class.
+Line 501: Class MSComctlLib.ListView of control lstInventario was not a loaded control class.
+Line 582: Class Threed.SSCommand of control cmdAtualiza was not a loaded control class.
+Line 725: Class MSComctlLib.Toolbar of control Toolbar1 was not a loaded control class.
+Line 809: Class MSComctlLib.ImageList of control ImageList2 was not a loaded control class.
+Line 864: Class MSMask.MaskEdBox of control txtDtLote was not a loaded control class.
+Line 906: Class ActiveResizer.SSResizer of control SSResizer1 was not a loaded control class.

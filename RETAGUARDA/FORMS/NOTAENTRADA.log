@@ -1,0 +1,9 @@
+Line 1062: Class MSMask.MaskEdBox of control txtCNPJCPF was not a loaded control class.
+Line 1086: Class MSMask.MaskEdBox of control txtDtEntrada was not a loaded control class.
+Line 1118: Class MSMask.MaskEdBox of control txtDtEmissao was not a loaded control class.
+Line 1295: Class MSComctlLib.Toolbar of control Toolbar1 was not a loaded control class.
+Line 1378: Class MSComctlLib.ImageList of control ImageList2 was not a loaded control class.
+Line 1433: Class ComctlLib.StatusBar of control stBarReq was not a loaded control class.
+Line 1529: Class ActiveResizer.SSResizer of control SSResizer1 was not a loaded control class.
+Line 1540: Class MSComDlg.CommonDialog of control buscaxml was not a loaded control class.
+Line 1547: Class MSFlexGridLib.MSFlexGrid of control MSFlexGrid1 was not a loaded control class.

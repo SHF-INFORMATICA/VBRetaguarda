@@ -1,0 +1,7 @@
+Line 28: Class TabDlg.SSTab of control SSTab1 was not a loaded control class.
+Line 105: Class MSComctlLib.ListView of control lstRepasse was not a loaded control class.
+Line 168: Class MSMask.MaskEdBox of control txtCNPJCPF_REPASSE was not a loaded control class.
+Line 202: Class MSComctlLib.Toolbar of control Toolbar1 was not a loaded control class.
+Line 271: Class MSComctlLib.ImageList of control ImageList2 was not a loaded control class.
+Line 314: Class ActiveResizer.SSResizer of control SSResizer1 was not a loaded control class.
+Line 325: Class MSComctlLib.ListView of control lstCheque was not a loaded control class.

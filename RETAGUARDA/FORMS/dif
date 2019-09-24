@@ -1,0 +1,3065 @@
+Comparando os arquivos AcertoCliente.frm e C:\MEGASIM\RET\FORMS\ACERTOCLIENTE.FRM
+***** AcertoCliente.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\ACERTOCLIENTE.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos AcertoFunc.frm e C:\MEGASIM\RET\FORMS\ACERTOFUNC.FRM
+***** AcertoFunc.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\ACERTOFUNC.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos APRESENTA.frm e C:\MEGASIM\RET\FORMS\APRESENTA.FRM
+***** APRESENTA.frm
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmAPRESENTA 
+***** C:\MEGASIM\RET\FORMS\APRESENTA.FRM
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmAPRESENTA 
+*****
+
+Comparando os arquivos AtGlobal.frm e C:\MEGASIM\RET\FORMS\ATGLOBAL.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos ATUALIZACAO.frm e C:\MEGASIM\RET\FORMS\ATUALIZACAO.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos ATUALIZACAO2.frm e C:\MEGASIM\RET\FORMS\ATUALIZACAO2.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos BACKUP.frm e C:\MEGASIM\RET\FORMS\BACKUP.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos BARRAS.frm e C:\MEGASIM\RET\FORMS\BARRAS.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos BaseCadastroPessoa.frm e C:\MEGASIM\RET\FORMS\BASECADASTROPESSOA.FRM
+***** BaseCadastroPessoa.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\BASECADASTROPESSOA.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+***** BaseCadastroPessoa.frm
+      Tab(1).ControlEnabled=   0   'False
+      Tab(1).Control(0)=   "fraCobranca"
+      Tab(1).Control(1)=   "fraResidencial"
+      Tab(1).Control(2)=   "fraComercial"
+      Tab(1).ControlCount=   3
+***** C:\MEGASIM\RET\FORMS\BASECADASTROPESSOA.FRM
+      Tab(1).ControlEnabled=   0   'False
+      Tab(1).Control(0)=   "fraComercial"
+      Tab(1).Control(1)=   "fraResidencial"
+      Tab(1).Control(2)=   "fraCobranca"
+      Tab(1).ControlCount=   3
+*****
+
+***** BaseCadastroPessoa.frm
+      Tab(2).ControlEnabled=   0   'False
+      Tab(2).Control(0)=   "lblRegiao"
+      Tab(2).Control(1)=   "lblConvenio"
+      Tab(2).Control(2)=   "lblVendedor"
+      Tab(2).Control(3)=   "lblContato"
+      Tab(2).Control(4)=   "lblTipoCli"
+      Tab(2).Control(5)=   "lblIM"
+      Tab(2).Control(6)=   "lblCredito"
+      Tab(2).Control(7)=   "lblSuframa"
+      Tab(2).Control(8)=   "cmbRegiao"
+      Tab(2).Control(9)=   "cmbAuxRegiao"
+      Tab(2).Control(10)=   "txtPercConv"
+      Tab(2).Control(11)=   "cmbVendedor"
+      Tab(2).Control(12)=   "txtContato"
+      Tab(2).Control(13)=   "cmbTipoCli"
+      Tab(2).Control(14)=   "chkESTRANGEIRO"
+      Tab(2).Control(15)=   "cmbVendedorAUX"
+      Tab(2).Control(16)=   "chkImp"
+      Tab(2).Control(17)=   "txtIM"
+      Tab(2).Control(18)=   "txtCredito"
+      Tab(2).Control(19)=   "cmdAtGlobal"
+      Tab(2).Control(20)=   "chkSuframa"
+      Tab(2).Control(21)=   "txtInscSuframa"
+      Tab(2).ControlCount=   22
+***** C:\MEGASIM\RET\FORMS\BASECADASTROPESSOA.FRM
+      Tab(2).ControlEnabled=   0   'False
+      Tab(2).Control(0)=   "txtInscSuframa"
+      Tab(2).Control(1)=   "chkSuframa"
+      Tab(2).Control(2)=   "cmdAtGlobal"
+      Tab(2).Control(3)=   "txtCredito"
+      Tab(2).Control(4)=   "txtIM"
+      Tab(2).Control(5)=   "chkImp"
+      Tab(2).Control(6)=   "cmbVendedorAUX"
+      Tab(2).Control(7)=   "chkESTRANGEIRO"
+      Tab(2).Control(8)=   "cmbTipoCli"
+      Tab(2).Control(9)=   "txtContato"
+      Tab(2).Control(10)=   "cmbVendedor"
+      Tab(2).Control(11)=   "txtPercConv"
+      Tab(2).Control(12)=   "cmbAuxRegiao"
+      Tab(2).Control(13)=   "cmbRegiao"
+      Tab(2).Control(14)=   "lblSuframa"
+      Tab(2).Control(15)=   "lblCredito"
+      Tab(2).Control(16)=   "lblIM"
+      Tab(2).Control(17)=   "lblTipoCli"
+      Tab(2).Control(18)=   "lblContato"
+      Tab(2).Control(19)=   "lblVendedor"
+      Tab(2).Control(20)=   "lblConvenio"
+      Tab(2).Control(21)=   "lblRegiao"
+      Tab(2).ControlCount=   22
+*****
+
+***** BaseCadastroPessoa.frm
+      Tab(3).ControlEnabled=   0   'False
+      Tab(3).Control(0)=   "txtSaldoDevedor"
+      Tab(3).Control(1)=   "txtTotalVendas"
+      Tab(3).Control(2)=   "lstAberto"
+      Tab(3).Control(3)=   "staAberto"
+      Tab(3).Control(4)=   "staCompras"
+      Tab(3).Control(5)=   "lstCompras"
+      Tab(3).Control(6)=   "Line1"
+      Tab(3).ControlCount=   7
+***** C:\MEGASIM\RET\FORMS\BASECADASTROPESSOA.FRM
+      Tab(3).ControlEnabled=   0   'False
+      Tab(3).Control(0)=   "Line1"
+      Tab(3).Control(1)=   "lstCompras"
+      Tab(3).Control(2)=   "staCompras"
+      Tab(3).Control(3)=   "staAberto"
+      Tab(3).Control(4)=   "lstAberto"
+      Tab(3).Control(5)=   "txtTotalVendas"
+      Tab(3).Control(6)=   "txtSaldoDevedor"
+      Tab(3).ControlCount=   7
+*****
+
+Comparando os arquivos BOLETO.frm e C:\MEGASIM\RET\FORMS\BOLETO.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos cadastroagencia.frm e C:\MEGASIM\RET\FORMS\CADASTROAGENCIA.FRM
+***** cadastroagencia.frm
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\CADASTROAGENCIA.FRM
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos cadastrobanco.frm e C:\MEGASIM\RET\FORMS\CADASTROBANCO.FRM
+***** cadastrobanco.frm
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmCADASTROBANCO 
+***** C:\MEGASIM\RET\FORMS\CADASTROBANCO.FRM
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmCADASTROBANCO 
+*****
+
+Comparando os arquivos CADASTROCARTAOBARRA.frm e C:\MEGASIM\RET\FORMS\CADASTROCARTAOBARRA.FRM
+***** CADASTROCARTAOBARRA.frm
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmCADASTROCARTAOBARRA 
+***** C:\MEGASIM\RET\FORMS\CADASTROCARTAOBARRA.FRM
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmCADASTROCARTAOBARRA 
+*****
+
+Comparando os arquivos cadastrocentrocusto.frm e C:\MEGASIM\RET\FORMS\CADASTROCENTROCUSTO.FRM
+***** cadastrocentrocusto.frm
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmCADASTROCENTROCUSTO 
+***** C:\MEGASIM\RET\FORMS\CADASTROCENTROCUSTO.FRM
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmCADASTROCENTROCUSTO 
+*****
+
+Comparando os arquivos cadastrocep.frm e C:\MEGASIM\RET\FORMS\CADASTROCEP.FRM
+***** cadastrocep.frm
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\CADASTROCEP.FRM
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos CADASTROCLIENTE.frm e C:\MEGASIM\RET\FORMS\CADASTROCLIENTE.FRM
+***** CADASTROCLIENTE.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\CADASTROCLIENTE.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+***** CADASTROCLIENTE.frm
+      Tab(2).ControlEnabled=   0   'False
+      Tab(2).Control(0)=   "txtInscSuframa"
+      Tab(2).Control(1)=   "chkSuframa"
+      Tab(2).Control(2)=   "fraCom"
+      Tab(2).Control(3)=   "Label12"
+      Tab(2).ControlCount=   4
+***** C:\MEGASIM\RET\FORMS\CADASTROCLIENTE.FRM
+      Tab(2).ControlEnabled=   0   'False
+      Tab(2).Control(0)=   "Label12"
+      Tab(2).Control(1)=   "fraCom"
+      Tab(2).Control(2)=   "chkSuframa"
+      Tab(2).Control(3)=   "txtInscSuframa"
+      Tab(2).ControlCount=   4
+*****
+
+***** CADASTROCLIENTE.frm
+      _ExtentY        =   1270
+      ButtonWidth     =   2646
+      ButtonHeight    =   1111
+***** C:\MEGASIM\RET\FORMS\CADASTROCLIENTE.FRM
+      _ExtentY        =   1270
+      ButtonWidth     =   2858
+      ButtonHeight    =   1111
+*****
+
+***** CADASTROCLIENTE.frm
+
+   If ssTab.Tab = 0 Then
+      txtCNPJCPF.Enabled = True
+      txtCNPJCPF.SetFocus
+   End If
+
+***** C:\MEGASIM\RET\FORMS\CADASTROCLIENTE.FRM
+
+   If ssTab.Tab = 0 Then _
+      txtCNPJCPF.SetFocus
+
+*****
+
+Comparando os arquivos cadastroconta.frm e C:\MEGASIM\RET\FORMS\CADASTROCONTA.FRM
+***** cadastroconta.frm
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\CADASTROCONTA.FRM
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos CADASTROEMPRESA.frm e C:\MEGASIM\RET\FORMS\CADASTROEMPRESA.FRM
+***** CADASTROEMPRESA.frm
+Object = "{C2000000-FFFF-1100-8000-000000000001}#8.0#0"; "PVMask.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\CADASTROEMPRESA.FRM
+Object = "{C2000000-FFFF-1100-8000-000000000001}#8.0#0"; "PVMask.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+***** CADASTROEMPRESA.frm
+      Tab(1).ControlEnabled=   0   'False
+      Tab(1).Control(0)=   "txtCNPJCPF"
+      Tab(1).Control(1)=   "txtNfe"
+      Tab(1).Control(2)=   "txtInstruçãoBoleto"
+      Tab(1).Control(3)=   "Frame1"
+      Tab(1).Control(4)=   "Frame2"
+      Tab(1).Control(5)=   "txtIdEstab"
+      Tab(1).Control(6)=   "txtLocalização"
+      Tab(1).Control(7)=   "txtNomeEstab"
+      Tab(1).Control(8)=   "txtDias"
+      Tab(1).Control(9)=   "txtJuros"
+      Tab(1).Control(10)=   "txtMSG"
+      Tab(1).Control(11)=   "txtDescDesconto"
+      Tab(1).Control(12)=   "txtDadosAdicionais"
+      Tab(1).Control(13)=   "chkIndustria"
+      Tab(1).Control(14)=   "chkDesconto"
+      Tab(1).Control(15)=   "chkNFE"
+      Tab(1).Control(16)=   "chkControleEstoque"
+      Tab(1).Control(17)=   "chkEstoque"
+      Tab(1).Control(18)=   "chkFatPedido"
+      Tab(1).Control(19)=   "chkLEI_12741"
+      Tab(1).Control(20)=   "grdESTAB"
+      Tab(1).Control(21)=   "adoEstab"
+      Tab(1).Control(22)=   "chkBaixaEstPedido"
+      Tab(1).Control(23)=   "chkMarkap"
+      Tab(1).Control(24)=   "chkCli"
+      Tab(1).Control(25)=   "chkFunc"
+      Tab(1).Control(26)=   "Label1(4)"
+      Tab(1).Control(27)=   "Label1(3)"
+      Tab(1).Control(28)=   "Label20"
+      Tab(1).Control(29)=   "Label1(2)"
+      Tab(1).Control(30)=   "Label1(1)"
+      Tab(1).Control(31)=   "Label19"
+      Tab(1).Control(32)=   "Label7"
+      Tab(1).Control(33)=   "Label17"
+      Tab(1).Control(34)=   "Label12"
+      Tab(1).Control(35)=   "Label11"
+      Tab(1).ControlCount=   36
+***** C:\MEGASIM\RET\FORMS\CADASTROEMPRESA.FRM
+      Tab(1).ControlEnabled=   0   'False
+      Tab(1).Control(0)=   "Label11"
+      Tab(1).Control(1)=   "Label12"
+      Tab(1).Control(2)=   "Label17"
+      Tab(1).Control(3)=   "Label7"
+      Tab(1).Control(4)=   "Label19"
+      Tab(1).Control(5)=   "Label1(1)"
+      Tab(1).Control(6)=   "Label1(2)"
+      Tab(1).Control(7)=   "Label20"
+      Tab(1).Control(8)=   "Label1(3)"
+      Tab(1).Control(9)=   "Label1(4)"
+      Tab(1).Control(10)=   "chkFunc"
+      Tab(1).Control(11)=   "chkCli"
+      Tab(1).Control(12)=   "chkMarkap"
+      Tab(1).Control(13)=   "chkBaixaEstPedido"
+      Tab(1).Control(14)=   "adoEstab"
+      Tab(1).Control(15)=   "grdESTAB"
+      Tab(1).Control(16)=   "chkLEI_12741"
+      Tab(1).Control(17)=   "chkFatPedido"
+      Tab(1).Control(18)=   "chkEstoque"
+      Tab(1).Control(19)=   "chkControleEstoque"
+      Tab(1).Control(20)=   "chkNFE"
+      Tab(1).Control(21)=   "chkDesconto"
+      Tab(1).Control(22)=   "chkIndustria"
+      Tab(1).Control(23)=   "txtDadosAdicionais"
+      Tab(1).Control(24)=   "txtDescDesconto"
+      Tab(1).Control(25)=   "txtMSG"
+      Tab(1).Control(26)=   "txtJuros"
+      Tab(1).Control(27)=   "txtDias"
+      Tab(1).Control(28)=   "txtNomeEstab"
+      Tab(1).Control(29)=   "txtLocalização"
+      Tab(1).Control(30)=   "txtIdEstab"
+      Tab(1).Control(31)=   "Frame2"
+      Tab(1).Control(32)=   "Frame1"
+      Tab(1).Control(33)=   "txtInstruçãoBoleto"
+      Tab(1).Control(34)=   "txtNfe"
+      Tab(1).Control(35)=   "txtCNPJCPF"
+      Tab(1).ControlCount=   36
+*****
+
+***** CADASTROEMPRESA.frm
+      Tab(2).ControlEnabled=   0   'False
+      Tab(2).Control(0)=   "txtIE"
+      Tab(2).Control(1)=   "txtComp"
+      Tab(2).Control(2)=   "txtL"
+      Tab(2).Control(3)=   "txtN"
+      Tab(2).Control(4)=   "txtDDD"
+      Tab(2).Control(5)=   "txtBairro"
+      Tab(2).Control(6)=   "txtUF"
+      Tab(2).Control(7)=   "txtCidade"
+      Tab(2).Control(8)=   "txtRua"
+      Tab(2).Control(9)=   "txtNumero"
+      Tab(2).Control(10)=   "txtCep"
+      Tab(2).Control(11)=   "Toolbar_Fone"
+      Tab(2).Control(12)=   "adoFone"
+      Tab(2).Control(13)=   "grdFone"
+      Tab(2).Control(14)=   "cmdEmail"
+      Tab(2).Control(15)=   "cmdMataIE"
+      Tab(2).Control(16)=   "Label6"
+      Tab(2).Control(17)=   "Label13"
+      Tab(2).Control(18)=   "Label8"
+      Tab(2).Control(19)=   "Label2"
+      Tab(2).Control(20)=   "Label16"
+      Tab(2).Control(21)=   "lblLabels(13)"
+      Tab(2).Control(22)=   "Label15"
+      Tab(2).Control(23)=   "Label14"
+      Tab(2).Control(24)=   "Label10"
+      Tab(2).Control(25)=   "Label9"
+      Tab(2).Control(26)=   "Label1(0)"
+      Tab(2).ControlCount=   27
+***** C:\MEGASIM\RET\FORMS\CADASTROEMPRESA.FRM
+      Tab(2).ControlEnabled=   0   'False
+      Tab(2).Control(0)=   "Label1(0)"
+      Tab(2).Control(1)=   "Label9"
+      Tab(2).Control(2)=   "Label10"
+      Tab(2).Control(3)=   "Label14"
+      Tab(2).Control(4)=   "Label15"
+      Tab(2).Control(5)=   "lblLabels(13)"
+      Tab(2).Control(6)=   "Label16"
+      Tab(2).Control(7)=   "Label2"
+      Tab(2).Control(8)=   "Label8"
+      Tab(2).Control(9)=   "Label13"
+      Tab(2).Control(10)=   "Label6"
+      Tab(2).Control(11)=   "cmdMataIE"
+      Tab(2).Control(12)=   "cmdEmail"
+      Tab(2).Control(13)=   "grdFone"
+      Tab(2).Control(14)=   "adoFone"
+      Tab(2).Control(15)=   "Toolbar_Fone"
+      Tab(2).Control(16)=   "txtCep"
+      Tab(2).Control(17)=   "txtNumero"
+      Tab(2).Control(18)=   "txtRua"
+      Tab(2).Control(19)=   "txtCidade"
+      Tab(2).Control(20)=   "txtUF"
+      Tab(2).Control(21)=   "txtBairro"
+      Tab(2).Control(22)=   "txtDDD"
+      Tab(2).Control(23)=   "txtN"
+      Tab(2).Control(24)=   "txtL"
+      Tab(2).Control(25)=   "txtComp"
+      Tab(2).Control(26)=   "txtIE"
+      Tab(2).ControlCount=   27
+*****
+
+Comparando os arquivos CADASTROFORNECEDOR.frm e C:\MEGASIM\RET\FORMS\CADASTROFORNECEDOR.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos CADASTROIBGE.frm e C:\MEGASIM\RET\FORMS\CADASTROIBGE.FRM
+***** CADASTROIBGE.frm
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmIBGECADASTRO 
+***** C:\MEGASIM\RET\FORMS\CADASTROIBGE.FRM
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmIBGECADASTRO 
+*****
+
+Comparando os arquivos CADASTROLANCAMENTO.frm e C:\MEGASIM\RET\FORMS\CADASTROLANCAMENTO.FRM
+***** CADASTROLANCAMENTO.frm
+Object = "{C2000000-FFFF-1100-8000-000000000001}#8.0#0"; "PVMask.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\CADASTROLANCAMENTO.FRM
+Object = "{C2000000-FFFF-1100-8000-000000000001}#8.0#0"; "PVMask.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos CADASTROPARAMETRO.frm e C:\MEGASIM\RET\FORMS\CADASTROPARAMETRO.FRM
+***** CADASTROPARAMETRO.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmCADASTROPARAMETRO 
+***** C:\MEGASIM\RET\FORMS\CADASTROPARAMETRO.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmCADASTROPARAMETRO 
+*****
+
+***** CADASTROPARAMETRO.frm
+      Tab(1).ControlEnabled=   0   'False
+      Tab(1).Control(0)=   "chkPermiteParcelar"
+      Tab(1).Control(1)=   "chkReceber"
+      Tab(1).Control(2)=   "chkPagar"
+      Tab(1).Control(3)=   "chkPreFatura"
+      Tab(1).Control(4)=   "cmbCCAux"
+      Tab(1).Control(5)=   "cmbAuxForma"
+      Tab(1).Control(6)=   "cmbCC"
+      Tab(1).Control(7)=   "txtTIPOVENDA"
+      Tab(1).Control(8)=   "txtDESCTIPOVENDA"
+      Tab(1).Control(9)=   "cmdMatarVENDA"
+      Tab(1).Control(10)=   "cmdLIMPARVENDA"
+      Tab(1).Control(11)=   "cmdSAIRVENDA"
+      Tab(1).Control(12)=   "txtParcela"
+      Tab(1).Control(13)=   "cmbFORMA"
+      Tab(1).Control(14)=   "txtDIAS"
+      Tab(1).Control(15)=   "txtPercJuros"
+      Tab(1).Control(16)=   "chkContabiliza"
+      Tab(1).Control(17)=   "txtDebito"
+      Tab(1).Control(18)=   "txtCredito"
+      Tab(1).Control(19)=   "chkPermite_Desconto"
+      Tab(1).Control(20)=   "LISTAVENDA"
+      Tab(1).Control(21)=   "Label50"
+      Tab(1).Control(22)=   "Label4"
+      Tab(1).Control(23)=   "Label5"
+      Tab(1).Control(24)=   "Label10"
+      Tab(1).Control(25)=   "lblNrCon(2)"
+      Tab(1).Control(26)=   "Label11"
+      Tab(1).Control(27)=   "Label15"
+      Tab(1).Control(28)=   "Label16"
+      Tab(1).Control(29)=   "Label18"
+      Tab(1).Control(30)=   "Label47"
+      Tab(1).Control(31)=   "Label48"
+      Tab(1).Control(32)=   "Label49"
+      Tab(1).ControlCount=   33
+***** C:\MEGASIM\RET\FORMS\CADASTROPARAMETRO.FRM
+      Tab(1).ControlEnabled=   0   'False
+      Tab(1).Control(0)=   "Label49"
+      Tab(1).Control(1)=   "Label48"
+      Tab(1).Control(2)=   "Label47"
+      Tab(1).Control(3)=   "Label18"
+      Tab(1).Control(4)=   "Label16"
+      Tab(1).Control(5)=   "Label15"
+      Tab(1).Control(6)=   "Label11"
+      Tab(1).Control(7)=   "lblNrCon(2)"
+      Tab(1).Control(8)=   "Label10"
+      Tab(1).Control(9)=   "Label5"
+      Tab(1).Control(10)=   "Label4"
+      Tab(1).Control(11)=   "Label50"
+      Tab(1).Control(12)=   "LISTAVENDA"
+      Tab(1).Control(13)=   "chkPermite_Desconto"
+      Tab(1).Control(14)=   "txtCredito"
+      Tab(1).Control(15)=   "txtDebito"
+      Tab(1).Control(16)=   "chkContabiliza"
+      Tab(1).Control(17)=   "txtPercJuros"
+      Tab(1).Control(18)=   "txtDIAS"
+      Tab(1).Control(19)=   "cmbFORMA"
+      Tab(1).Control(20)=   "txtParcela"
+      Tab(1).Control(21)=   "cmdSAIRVENDA"
+      Tab(1).Control(22)=   "cmdLIMPARVENDA"
+      Tab(1).Control(23)=   "cmdMatarVENDA"
+      Tab(1).Control(24)=   "txtDESCTIPOVENDA"
+      Tab(1).Control(25)=   "txtTIPOVENDA"
+      Tab(1).Control(26)=   "cmbCC"
+      Tab(1).Control(27)=   "cmbAuxForma"
+      Tab(1).Control(28)=   "cmbCCAux"
+      Tab(1).Control(29)=   "chkPreFatura"
+      Tab(1).Control(30)=   "chkPagar"
+      Tab(1).Control(31)=   "chkReceber"
+      Tab(1).Control(32)=   "chkPermiteParcelar"
+      Tab(1).ControlCount=   33
+*****
+
+***** CADASTROPARAMETRO.frm
+      Tab(2).ControlEnabled=   0   'False
+      Tab(2).Control(0)=   "Label7"
+      Tab(2).Control(1)=   "Label6"
+      Tab(2).Control(2)=   "LISTAPAGTO"
+      Tab(2).Control(3)=   "chkCBalcao"
+      Tab(2).Control(4)=   "chkBaixaAuto"
+      Tab(2).Control(5)=   "chkCTesoraria"
+      Tab(2).Control(6)=   "chkPagto"
+      Tab(2).Control(7)=   "cmdMATARPAGTO"
+      Tab(2).Control(8)=   "cmdLIMPARPAGTO"
+      Tab(2).Control(9)=   "cmdSAIRPAGTO"
+      Tab(2).Control(10)=   "txtDESCFORMAPAGTO"
+      Tab(2).Control(11)=   "txtFORMAPAGTO"
+      Tab(2).Control(12)=   "chkFunc"
+      Tab(2).ControlCount=   13
+***** C:\MEGASIM\RET\FORMS\CADASTROPARAMETRO.FRM
+      Tab(2).ControlEnabled=   0   'False
+      Tab(2).Control(0)=   "chkFunc"
+      Tab(2).Control(1)=   "txtFORMAPAGTO"
+      Tab(2).Control(2)=   "txtDESCFORMAPAGTO"
+      Tab(2).Control(3)=   "cmdSAIRPAGTO"
+      Tab(2).Control(4)=   "cmdLIMPARPAGTO"
+      Tab(2).Control(5)=   "cmdMATARPAGTO"
+      Tab(2).Control(6)=   "chkPagto"
+      Tab(2).Control(7)=   "chkCTesoraria"
+      Tab(2).Control(8)=   "chkBaixaAuto"
+      Tab(2).Control(9)=   "chkCBalcao"
+      Tab(2).Control(10)=   "LISTAPAGTO"
+      Tab(2).Control(11)=   "Label6"
+      Tab(2).Control(12)=   "Label7"
+      Tab(2).ControlCount=   13
+*****
+
+***** CADASTROPARAMETRO.frm
+      Tab(3).ControlEnabled=   0   'False
+      Tab(3).Control(0)=   "lblestoque"
+      Tab(3).Control(1)=   "Label9"
+      Tab(3).Control(2)=   "Label8"
+      Tab(3).Control(3)=   "LISTAENTRADA"
+      Tab(3).Control(4)=   "txtboleto"
+      Tab(3).Control(5)=   "txtTIPOENTRADA"
+      Tab(3).Control(6)=   "txtDESCTIPOENTRADA"
+      Tab(3).Control(7)=   "cmdmatarentrada"
+      Tab(3).Control(8)=   "cmdLIMPARentrada"
+      Tab(3).Control(9)=   "cmdSAIRentrada"
+      Tab(3).ControlCount=   10
+***** C:\MEGASIM\RET\FORMS\CADASTROPARAMETRO.FRM
+      Tab(3).ControlEnabled=   0   'False
+      Tab(3).Control(0)=   "cmdSAIRentrada"
+      Tab(3).Control(1)=   "cmdLIMPARentrada"
+      Tab(3).Control(2)=   "cmdmatarentrada"
+      Tab(3).Control(3)=   "txtDESCTIPOENTRADA"
+      Tab(3).Control(4)=   "txtTIPOENTRADA"
+      Tab(3).Control(5)=   "txtboleto"
+      Tab(3).Control(6)=   "LISTAENTRADA"
+      Tab(3).Control(7)=   "Label8"
+      Tab(3).Control(8)=   "Label9"
+      Tab(3).Control(9)=   "lblestoque"
+      Tab(3).ControlCount=   10
+*****
+
+***** CADASTROPARAMETRO.frm
+      Tab(4).ControlEnabled=   0   'False
+      Tab(4).Control(0)=   "Label12"
+      Tab(4).Control(1)=   "Label13"
+      Tab(4).Control(2)=   "Label14"
+      Tab(4).Control(3)=   "lblicms"
+      Tab(4).Control(4)=   "lblipi"
+      Tab(4).Control(5)=   "lbliss"
+      Tab(4).Control(6)=   "lblsubst"
+      Tab(4).Control(7)=   "lblicmsfora"
+      Tab(4).Control(8)=   "Line1"
+      Tab(4).Control(9)=   "LISTACFOP"
+      Tab(4).Control(10)=   "txtCFOP_ID"
+      Tab(4).Control(11)=   "txtDesc_CFOP"
+      Tab(4).Control(12)=   "cmdCFOPSAIR"
+      Tab(4).Control(13)=   "cmdCFOPLIMPA"
+      Tab(4).Control(14)=   "cmdCFOPMATA"
+      Tab(4).Control(15)=   "txtFISCO"
+      Tab(4).Control(16)=   "txtICMS_Dentro"
+      Tab(4).Control(17)=   "txtIPI"
+      Tab(4).Control(18)=   "txtISS"
+      Tab(4).Control(19)=   "txtSUBST"
+      Tab(4).Control(20)=   "txtICMS_Fora"
+      Tab(4).ControlCount=   21
+***** C:\MEGASIM\RET\FORMS\CADASTROPARAMETRO.FRM
+      Tab(4).ControlEnabled=   0   'False
+      Tab(4).Control(0)=   "txtICMS_Fora"
+      Tab(4).Control(1)=   "txtSUBST"
+      Tab(4).Control(2)=   "txtISS"
+      Tab(4).Control(3)=   "txtIPI"
+      Tab(4).Control(4)=   "txtICMS_Dentro"
+      Tab(4).Control(5)=   "txtFISCO"
+      Tab(4).Control(6)=   "cmdCFOPMATA"
+      Tab(4).Control(7)=   "cmdCFOPLIMPA"
+      Tab(4).Control(8)=   "cmdCFOPSAIR"
+      Tab(4).Control(9)=   "txtDesc_CFOP"
+      Tab(4).Control(10)=   "txtCFOP_ID"
+      Tab(4).Control(11)=   "LISTACFOP"
+      Tab(4).Control(12)=   "Line1"
+      Tab(4).Control(13)=   "lblicmsfora"
+      Tab(4).Control(14)=   "lblsubst"
+      Tab(4).Control(15)=   "lbliss"
+      Tab(4).Control(16)=   "lblipi"
+      Tab(4).Control(17)=   "lblicms"
+      Tab(4).Control(18)=   "Label14"
+      Tab(4).Control(19)=   "Label13"
+      Tab(4).Control(20)=   "Label12"
+      Tab(4).ControlCount=   21
+*****
+
+***** CADASTROPARAMETRO.frm
+      Tab(6).ControlEnabled=   0   'False
+      Tab(6).Control(0)=   "Frame7"
+      Tab(6).Control(1)=   "Frame6"
+      Tab(6).Control(2)=   "Frame5"
+      Tab(6).Control(3)=   "Frame4"
+      Tab(6).Control(4)=   "frame"
+      Tab(6).ControlCount=   5
+***** C:\MEGASIM\RET\FORMS\CADASTROPARAMETRO.FRM
+      Tab(6).ControlEnabled=   0   'False
+      Tab(6).Control(0)=   "frame"
+      Tab(6).Control(1)=   "Frame4"
+      Tab(6).Control(2)=   "Frame5"
+      Tab(6).Control(3)=   "Frame6"
+      Tab(6).Control(4)=   "Frame7"
+      Tab(6).ControlCount=   5
+*****
+
+***** CADASTROPARAMETRO.frm
+      Tab(7).Control(0)=   "Line2"
+      Tab(7).Control(1)=   "Label52"
+      Tab(7).Control(2)=   "Text2"
+      Tab(7).Control(3)=   "cmdSairBalanca"
+      Tab(7).Control(4)=   "cmdLimpaBalanca"
+      Tab(7).Control(5)=   "chkPanific"
+      Tab(7).Control(6)=   "txtTamanhoCodgProdBarra"
+      Tab(7).Control(7)=   "Frame1"
+      Tab(7).Control(8)=   "Text1"
+      Tab(7).Control(9)=   "txtTamanhoPesoValorBarra"
+      Tab(7).Control(10)=   "cmdGravarBalanca"
+      Tab(7).Control(11)=   "txtCodgProdutoReserva"
+      Tab(7).ControlCount=   12
+      Begin VB.TextBox txtCodgProdutoReserva 
+         Height          =   375
+         Left            =   -71280
+         TabIndex        =   171
+         Top             =   4080
+         Width           =   1095
+      End
+      Begin VB.CheckBox chkPermiteParcelar 
+***** C:\MEGASIM\RET\FORMS\CADASTROPARAMETRO.FRM
+      Tab(7).Control(0)=   "Line2"
+      Tab(7).Control(1)=   "Text2"
+      Tab(7).Control(2)=   "cmdSairBalanca"
+      Tab(7).Control(3)=   "cmdLimpaBalanca"
+      Tab(7).Control(4)=   "chkPanific"
+      Tab(7).Control(5)=   "txtTamanhoCodgProdBarra"
+      Tab(7).Control(6)=   "Frame1"
+      Tab(7).Control(7)=   "Text1"
+      Tab(7).Control(8)=   "txtTamanhoPesoValorBarra"
+      Tab(7).Control(9)=   "cmdGravarBalanca"
+      Tab(7).ControlCount=   10
+      Begin VB.CheckBox chkPermiteParcelar 
+*****
+
+***** CADASTROPARAMETRO.frm
+      End
+      Begin VB.Label Label52 
+         AutoSize        =   -1  'True
+         Caption         =   "Reserva Sequencia Código Produto:"
+         Height          =   240
+         Left            =   -74520
+         TabIndex        =   172
+         Top             =   4080
+         Width           =   3120
+      End
+      Begin VB.Label Label50 
+***** C:\MEGASIM\RET\FORMS\CADASTROPARAMETRO.FRM
+      End
+      Begin VB.Label Label50 
+*****
+
+***** CADASTROPARAMETRO.frm
+      txtTamanhoPesoValorBarra.Text = 0
+   If Trim(txtCodgProdutoReserva.Text) = "" Then _
+      txtCodgProdutoReserva.Text = 1
+
+***** C:\MEGASIM\RET\FORMS\CADASTROPARAMETRO.FRM
+      txtTamanhoPesoValorBarra.Text = 0
+
+*****
+
+***** CADASTROPARAMETRO.frm
+   End If
+   SQL = SQL & ",CODG_PROD_RESERVA = " & txtCodgProdutoReserva.Text
+   SQL = SQL & " where estabelecimento_id = " & ESTABELECIMENTO_ID_N
+***** C:\MEGASIM\RET\FORMS\CADASTROPARAMETRO.FRM
+   End If
+   SQL = SQL & " where estabelecimento_id = " & ESTABELECIMENTO_ID_N
+*****
+
+***** CADASTROPARAMETRO.frm
+
+   SQL = "select TamanhoCodgProdBarra,TamanhoPesoValorBarra,INDR_PANIFIC,peso_valor,CODG_PROD_RESERVA from ESTABELECIMENTO WITH 
+(NOLOCK)"
+   SQL = SQL & " where estabelecimento_id = " & ESTABELECIMENTO_ID_N
+***** C:\MEGASIM\RET\FORMS\CADASTROPARAMETRO.FRM
+
+   SQL = "select TamanhoCodgProdBarra,TamanhoPesoValorBarra,INDR_PANIFIC,peso_valor from ESTABELECIMENTO WITH (NOLOCK)"
+   SQL = SQL & " where estabelecimento_id = " & ESTABELECIMENTO_ID_N
+*****
+
+***** CADASTROPARAMETRO.frm
+            optValor.Value = True
+
+      If Not IsNull(TabTemp.Fields("CODG_PROD_RESERVA").Value) Then _
+         txtCodgProdutoReserva.Text = TabTemp.Fields("CODG_PROD_RESERVA").Value
+   End If
+***** C:\MEGASIM\RET\FORMS\CADASTROPARAMETRO.FRM
+            optValor.Value = True
+   End If
+*****
+
+Comparando os arquivos CADASTROPRODUTO.frm e C:\MEGASIM\RET\FORMS\CADASTROPRODUTO.FRM
+***** CADASTROPRODUTO.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\CADASTROPRODUTO.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+***** CADASTROPRODUTO.frm
+      _ExtentY        =   1270
+      ButtonWidth     =   2461
+      ButtonHeight    =   1111
+***** C:\MEGASIM\RET\FORMS\CADASTROPRODUTO.FRM
+      _ExtentY        =   1270
+      ButtonWidth     =   2725
+      ButtonHeight    =   1111
+*****
+
+***** CADASTROPRODUTO.frm
+
+NUMR_SEQ_N = 1
+
+***** C:\MEGASIM\RET\FORMS\CADASTROPRODUTO.FRM
+
+    If INDR_PANIFIC = True Then
+      SQL = "update EMPRESA set "
+      SQL = SQL & " seq_codg_prod = 1000"
+
+      SQL = SQL & " from EMPRESA "
+      SQL = SQL & " where empresa.empresa_id = " & EMPRESA_ID_N
+      CONECTA_RETAGUARDA.Execute SQL
+      Else
+         SQL = "update EMPRESA set "
+         SQL = SQL & " seq_codg_prod = 1"
+
+         SQL = SQL & " from EMPRESA "
+         SQL = SQL & " where empresa.empresa_id = " & EMPRESA_ID_N
+         CONECTA_RETAGUARDA.Execute SQL
+   End If
+
+RODA_PRODUTO:
+
+   NUMR_PROD_N = 1
+
+*****
+
+***** CADASTROPRODUTO.frm
+
+   SQL = "select CODG_PROD_RESERVA from ESTABELECIMENTO WITH (NOLOCK)"
+   SQL = SQL & " where estabelecimento_id = " & ESTABELECIMENTO_ID_N
+   TabTemp.Open SQL, CONECTA_RETAGUARDA, , , adCmdText
+***** C:\MEGASIM\RET\FORMS\CADASTROPRODUTO.FRM
+
+   SQL = "select seq_codg_prod from EMPRESA WITH (NOLOCK)"
+   SQL = SQL & " where empresa_id = " & EMPRESA_ID_N
+   TabTemp.Open SQL, CONECTA_RETAGUARDA, , , adCmdText
+*****
+
+***** CADASTROPRODUTO.frm
+      If Not IsNull(TabTemp.Fields(0).Value) Then _
+         NUMR_SEQ_N = 0 & TabTemp.Fields(0).Value
+   If TabTemp.State = 1 Then _
+***** C:\MEGASIM\RET\FORMS\CADASTROPRODUTO.FRM
+      If Not IsNull(TabTemp.Fields(0).Value) Then _
+         If IsNumeric(TabTemp.Fields(0).Value) Then _
+            NUMR_PROD_N = 1 + TabTemp.Fields(0).Value
+   If TabTemp.State = 1 Then _
+*****
+
+***** CADASTROPRODUTO.frm
+
+    'If INDR_PANIFIC = True Then
+    '  SQL = "update EMPRESA set "
+    '  SQL = SQL & " seq_codg_prod = 1000"
+
+    '  SQL = SQL & " from EMPRESA "
+    '  SQL = SQL & " where empresa.empresa_id = " & EMPRESA_ID_N
+    '  CONECTA_RETAGUARDA.Execute SQL
+    '  Else
+         SQL = "update EMPRESA set "
+         SQL = SQL & " seq_codg_prod = " & NUMR_SEQ_N
+
+         SQL = SQL & " from EMPRESA "
+         SQL = SQL & " where empresa.empresa_id = " & EMPRESA_ID_N
+         CONECTA_RETAGUARDA.Execute SQL
+   'End If
+
+RODA_PRODUTO:
+
+   NUMR_PROD_N = 1
+
+   If TabTemp.State = 1 Then _
+      TabTemp.Close
+
+   SQL = "select seq_codg_prod from EMPRESA WITH (NOLOCK)"
+   SQL = SQL & " where empresa_id = " & EMPRESA_ID_N
+   TabTemp.Open SQL, CONECTA_RETAGUARDA, , , adCmdText
+***** C:\MEGASIM\RET\FORMS\CADASTROPRODUTO.FRM
+
+   SQL = "update EMPRESA set "
+   SQL = SQL & " seq_codg_prod = " & NUMR_PROD_N
+
+   SQL = SQL & " from EMPRESA "
+   SQL = SQL & " where empresa.empresa_id = " & EMPRESA_ID_N
+   CONECTA_RETAGUARDA.Execute SQL
+
+   SQL = "select codg_produto from PRODUTO WITH (NOLOCK)"
+   SQL = SQL & " where codg_produto = '" & NUMR_PROD_N & "'"
+   'SQL = SQL & " and situacao <> 'C' "
+   TabTemp.Open SQL, CONECTA_RETAGUARDA, , , adCmdText
+*****
+
+***** CADASTROPRODUTO.frm
+   If Not TabTemp.EOF Then _
+      If Not IsNull(TabTemp.Fields(0).Value) Then _
+         If IsNumeric(TabTemp.Fields(0).Value) Then _
+            NUMR_PROD_N = 1 + TabTemp.Fields(0).Value
+   If TabTemp.State = 1 Then _
+      TabTemp.Close
+
+   SQL = "update EMPRESA set "
+   SQL = SQL & " seq_codg_prod = " & NUMR_PROD_N
+
+   SQL = SQL & " from EMPRESA "
+   SQL = SQL & " where empresa.empresa_id = " & EMPRESA_ID_N
+   CONECTA_RETAGUARDA.Execute SQL
+
+   SQL = "select codg_produto from PRODUTO WITH (NOLOCK)"
+   SQL = SQL & " where codg_produto = '" & NUMR_PROD_N & "'"
+   'SQL = SQL & " and situacao <> 'C' "
+   TabTemp.Open SQL, CONECTA_RETAGUARDA, , , adCmdText
+   If Not TabTemp.EOF Then _
+      GoTo RODA_PRODUTO
+***** C:\MEGASIM\RET\FORMS\CADASTROPRODUTO.FRM
+   If Not TabTemp.EOF Then _
+      GoTo RODA_PRODUTO
+*****
+
+***** CADASTROPRODUTO.frm
+
+   If TabTemp.State = 1 Then _
+      TabTemp.Close
+
+   SQL = "select produto_id from PRODUTO WITH (NOLOCK)"
+   SQL = SQL & " where produto_id = " & NUMR_PROD_N
+   'SQL = SQL & " and situacao <> 'C' "
+   TabTemp.Open SQL, CONECTA_RETAGUARDA, , , adCmdText
+   If Not TabTemp.EOF Then _
+      GoTo RODA_PRODUTO
+
+   If TabTemp.State = 1 Then _
+      TabTemp.Close
+
+***** C:\MEGASIM\RET\FORMS\CADASTROPRODUTO.FRM
+
+Exit Sub
+ERRO_TRATA:
+   TRATA_ERROS Err.Description, Me.Name, "GERA_CODIGO_PRODUTO"
+End Sub
+
+Private Sub cmdCadFor_Click()
+On Error GoTo ERRO_TRATA
+
+   CNPJCPF_A = ""
+   PESSOA_ID_N = 0
+   TIPO_PESSOA_CADASTRO = "FORNECEDOR"
+   frmBaseCadastroPessoa.Show 1
+
+*****
+
+***** CADASTROPRODUTO.frm
+ERRO_TRATA:
+   TRATA_ERROS Err.Description, Me.Name, "GERA_CODIGO_PRODUTO"
+End Sub
+***** C:\MEGASIM\RET\FORMS\CADASTROPRODUTO.FRM
+ERRO_TRATA:
+   TRATA_ERROS Err.Description, Me.Name, "cmdCadFor_Click"
+End Sub
+*****
+
+***** CADASTROPRODUTO.frm
+
+Private Sub cmdCadFor_Click()
+On Error GoTo ERRO_TRATA
+
+   CNPJCPF_A = ""
+   PESSOA_ID_N = 0
+   TIPO_PESSOA_CADASTRO = "FORNECEDOR"
+   frmBaseCadastroPessoa.Show 1
+
+Exit Sub
+ERRO_TRATA:
+   TRATA_ERROS Err.Description, Me.Name, "cmdCadFor_Click"
+End Sub
+***** C:\MEGASIM\RET\FORMS\CADASTROPRODUTO.FRM
+*****
+
+Comparando os arquivos CADASTROPROGRAMA.frm e C:\MEGASIM\RET\FORMS\CADASTROPROGRAMA.FRM
+***** CADASTROPROGRAMA.frm
+Object = "{CDE57A40-8B86-11D0-B3C6-00A0C90AEA82}#1.0#0"; "MSDATGRD.OCX"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmCADASTROPROGRAMA 
+***** C:\MEGASIM\RET\FORMS\CADASTROPROGRAMA.FRM
+Object = "{CDE57A40-8B86-11D0-B3C6-00A0C90AEA82}#1.0#0"; "MSDATGRD.OCX"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmCADASTROPROGRAMA 
+*****
+
+Comparando os arquivos CADASTRORG.frm e C:\MEGASIM\RET\FORMS\CADASTRORG.FRM
+***** CADASTRORG.frm
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\CADASTRORG.FRM
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos CADASTROTAXAMARC.frm e C:\MEGASIM\RET\FORMS\CADASTROTAXAMARC.FRM
+***** CADASTROTAXAMARC.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\CADASTROTAXAMARC.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+***** CADASTROTAXAMARC.frm
+      Tab(1).ControlEnabled=   0   'False
+      Tab(1).Control(0)=   "cmbprod"
+      Tab(1).Control(0).Enabled=   0   'False
+      Tab(1).Control(1)=   "txtprodalt"
+      Tab(1).Control(1).Enabled=   0   'False
+      Tab(1).Control(2)=   "txtdescalt"
+      Tab(1).Control(2).Enabled=   0   'False
+      Tab(1).Control(3)=   "opvalor"
+      Tab(1).Control(3).Enabled=   0   'False
+      Tab(1).Control(4)=   "opperc"
+      Tab(1).Control(4).Enabled=   0   'False
+      Tab(1).Control(5)=   "txtValor"
+      Tab(1).Control(5).Enabled=   0   'False
+***** C:\MEGASIM\RET\FORMS\CADASTROTAXAMARC.FRM
+      Tab(1).ControlEnabled=   0   'False
+      Tab(1).Control(0)=   "lblpreco"
+      Tab(1).Control(0).Enabled=   0   'False
+      Tab(1).Control(1)=   "lblprod"
+      Tab(1).Control(1).Enabled=   0   'False
+      Tab(1).Control(2)=   "lbltipoprod"
+      Tab(1).Control(2).Enabled=   0   'False
+      Tab(1).Control(3)=   "Line2"
+      Tab(1).Control(3).Enabled=   0   'False
+      Tab(1).Control(4)=   "lstProdutoPreço"
+      Tab(1).Control(4).Enabled=   0   'False
+      Tab(1).Control(5)=   "LISTA_ALT"
+      Tab(1).Control(5).Enabled=   0   'False
+*****
+
+***** CADASTROTAXAMARC.frm
+      Tab(1).Control(6).Enabled=   0   'False
+      Tab(1).Control(7)=   "LISTA_ALT"
+      Tab(1).Control(7).Enabled=   0   'False
+      Tab(1).Control(8)=   "lstProdutoPreço"
+      Tab(1).Control(8).Enabled=   0   'False
+      Tab(1).Control(9)=   "Line2"
+      Tab(1).Control(9).Enabled=   0   'False
+      Tab(1).Control(10)=   "lbltipoprod"
+      Tab(1).Control(10).Enabled=   0   'False
+      Tab(1).Control(11)=   "lblprod"
+      Tab(1).Control(11).Enabled=   0   'False
+      Tab(1).Control(12)=   "lblpreco"
+      Tab(1).Control(12).Enabled=   0   'False
+***** C:\MEGASIM\RET\FORMS\CADASTROTAXAMARC.FRM
+      Tab(1).Control(6).Enabled=   0   'False
+      Tab(1).Control(7)=   "txtValor"
+      Tab(1).Control(7).Enabled=   0   'False
+      Tab(1).Control(8)=   "opperc"
+      Tab(1).Control(8).Enabled=   0   'False
+      Tab(1).Control(9)=   "opvalor"
+      Tab(1).Control(9).Enabled=   0   'False
+      Tab(1).Control(10)=   "txtdescalt"
+      Tab(1).Control(10).Enabled=   0   'False
+      Tab(1).Control(11)=   "txtprodalt"
+      Tab(1).Control(11).Enabled=   0   'False
+      Tab(1).Control(12)=   "cmbprod"
+      Tab(1).Control(12).Enabled=   0   'False
+*****
+
+***** CADASTROTAXAMARC.frm
+      Tab(2).ControlEnabled=   0   'False
+      Tab(2).Control(0)=   "cmdZera"
+      Tab(2).Control(0).Enabled=   0   'False
+      Tab(2).Control(1)=   "txtRef"
+      Tab(2).Control(1).Enabled=   0   'False
+      Tab(2).Control(2)=   "txtValorAcerto"
+      Tab(2).Control(2).Enabled=   0   'False
+      Tab(2).Control(3)=   "chkCusto"
+      Tab(2).Control(3).Enabled=   0   'False
+      Tab(2).Control(4)=   "chkAtacado"
+      Tab(2).Control(4).Enabled=   0   'False
+      Tab(2).Control(5)=   "chkVenda"
+      Tab(2).Control(5).Enabled=   0   'False
+      Tab(2).Control(6)=   "cmbFamiliaAUX"
+      Tab(2).Control(6).Enabled=   0   'False
+      Tab(2).Control(7)=   "optAcre"
+      Tab(2).Control(7).Enabled=   0   'False
+      Tab(2).Control(8)=   "optDesc"
+      Tab(2).Control(8).Enabled=   0   'False
+      Tab(2).Control(9)=   "txtPercVlr"
+      Tab(2).Control(9).Enabled=   0   'False
+      Tab(2).Control(10)=   "cmbFamilia"
+      Tab(2).Control(10).Enabled=   0   'False
+      Tab(2).Control(11)=   "LISTA_PROD_GRP"
+      Tab(2).Control(11).Enabled=   0   'False
+      Tab(2).Control(12)=   "Label24"
+      Tab(2).Control(12).Enabled=   0   'False
+      Tab(2).Control(13)=   "Label23"
+      Tab(2).Control(13).Enabled=   0   'False
+      Tab(2).Control(14)=   "lblpercvlr"
+      Tab(2).Control(14).Enabled=   0   'False
+      Tab(2).Control(15)=   "lblgrp"
+      Tab(2).Control(15).Enabled=   0   'False
+***** C:\MEGASIM\RET\FORMS\CADASTROTAXAMARC.FRM
+      Tab(2).ControlEnabled=   0   'False
+      Tab(2).Control(0)=   "lblgrp"
+      Tab(2).Control(0).Enabled=   0   'False
+      Tab(2).Control(1)=   "lblpercvlr"
+      Tab(2).Control(1).Enabled=   0   'False
+      Tab(2).Control(2)=   "Label23"
+      Tab(2).Control(2).Enabled=   0   'False
+      Tab(2).Control(3)=   "Label24"
+      Tab(2).Control(3).Enabled=   0   'False
+      Tab(2).Control(4)=   "LISTA_PROD_GRP"
+      Tab(2).Control(4).Enabled=   0   'False
+      Tab(2).Control(5)=   "cmbFamilia"
+      Tab(2).Control(5).Enabled=   0   'False
+      Tab(2).Control(6)=   "txtPercVlr"
+      Tab(2).Control(6).Enabled=   0   'False
+      Tab(2).Control(7)=   "optDesc"
+      Tab(2).Control(7).Enabled=   0   'False
+      Tab(2).Control(8)=   "optAcre"
+      Tab(2).Control(8).Enabled=   0   'False
+      Tab(2).Control(9)=   "cmbFamiliaAUX"
+      Tab(2).Control(9).Enabled=   0   'False
+      Tab(2).Control(10)=   "chkVenda"
+      Tab(2).Control(10).Enabled=   0   'False
+      Tab(2).Control(11)=   "chkAtacado"
+      Tab(2).Control(11).Enabled=   0   'False
+      Tab(2).Control(12)=   "chkCusto"
+      Tab(2).Control(12).Enabled=   0   'False
+      Tab(2).Control(13)=   "txtValorAcerto"
+      Tab(2).Control(13).Enabled=   0   'False
+      Tab(2).Control(14)=   "txtRef"
+      Tab(2).Control(14).Enabled=   0   'False
+      Tab(2).Control(15)=   "cmdZera"
+      Tab(2).Control(15).Enabled=   0   'False
+*****
+
+Comparando os arquivos CADASTROTRANS.frm e C:\MEGASIM\RET\FORMS\CADASTROTRANS.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos CADASTROUSUARIO.frm e C:\MEGASIM\RET\FORMS\CADASTROUSUARIO.FRM
+***** CADASTROUSUARIO.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\CADASTROUSUARIO.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos CADASTROVENDEDOR.frm e C:\MEGASIM\RET\FORMS\CADASTROVENDEDOR.FRM
+***** CADASTROVENDEDOR.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\CADASTROVENDEDOR.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos CADFINENTRADA.frm e C:\MEGASIM\RET\FORMS\CADFINENTRADA.FRM
+***** CADFINENTRADA.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\CADFINENTRADA.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos CAIXABALCAOAF.frm e C:\MEGASIM\RET\FORMS\CAIXABALCAOAF.FRM
+***** CAIXABALCAOAF.frm
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\CAIXABALCAOAF.FRM
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos CAIXAREC.frm e C:\MEGASIM\RET\FORMS\CAIXAREC.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos CAIXAREL.frm e C:\MEGASIM\RET\FORMS\CAIXAREL.FRM
+***** CAIXAREL.frm
+Object = "{F20E41DE-526A-423A-B746-D860D06076B4}#4.0#0"; "IGThreed40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\CAIXAREL.FRM
+Object = "{F20E41DE-526A-423A-B746-D860D06076B4}#4.0#0"; "IGThreed40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos CAIXATESORARIA.frm e C:\MEGASIM\RET\FORMS\CAIXATESORARIA.FRM
+***** CAIXATESORARIA.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\CAIXATESORARIA.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+***** CAIXATESORARIA.frm
+      Tab(1).ControlEnabled=   0   'False
+      Tab(1).Control(0)=   "Label13"
+      Tab(1).Control(1)=   "Label15"
+      Tab(1).Control(2)=   "Label16(0)"
+      Tab(1).Control(3)=   "Label16(1)"
+      Tab(1).Control(4)=   "lblProc"
+      Tab(1).Control(5)=   "lstCC"
+      Tab(1).Control(6)=   "lstForma"
+      Tab(1).Control(7)=   "txtDtFim"
+      Tab(1).Control(8)=   "txtDtIni"
+      Tab(1).Control(9)=   "chkImp"
+      Tab(1).ControlCount=   10
+***** C:\MEGASIM\RET\FORMS\CAIXATESORARIA.FRM
+      Tab(1).ControlEnabled=   0   'False
+      Tab(1).Control(0)=   "chkImp"
+      Tab(1).Control(1)=   "txtDtIni"
+      Tab(1).Control(2)=   "txtDtFim"
+      Tab(1).Control(3)=   "lstForma"
+      Tab(1).Control(4)=   "lstCC"
+      Tab(1).Control(5)=   "lblProc"
+      Tab(1).Control(6)=   "Label16(1)"
+      Tab(1).Control(7)=   "Label16(0)"
+      Tab(1).Control(8)=   "Label15"
+      Tab(1).Control(9)=   "Label13"
+      Tab(1).ControlCount=   10
+*****
+
+Comparando os arquivos CAIXATESORARIAAF.frm e C:\MEGASIM\RET\FORMS\CAIXATESORARIAAF.FRM
+***** CAIXATESORARIAAF.frm
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\CAIXATESORARIAAF.FRM
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos CANCELAVENDA.frm e C:\MEGASIM\RET\FORMS\CANCELAVENDA.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos CCe.frm e C:\MEGASIM\RET\FORMS\CCE.FRM
+***** CCe.frm
+Object = "{0ECD9B60-23AA-11D0-B351-00A0C9055D8E}#6.0#0"; "MSHFLXGD.OCX"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\CCE.FRM
+Object = "{0ECD9B60-23AA-11D0-B351-00A0C9055D8E}#6.0#0"; "MSHFLXGD.OCX"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos CHEQUECADASTRO.frm e C:\MEGASIM\RET\FORMS\CHEQUECADASTRO.FRM
+***** CHEQUECADASTRO.frm
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\CHEQUECADASTRO.FRM
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos CHEQUECONSULTA.frm e C:\MEGASIM\RET\FORMS\CHEQUECONSULTA.FRM
+***** CHEQUECONSULTA.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\CHEQUECONSULTA.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos CHEQUEPAGTO.frm e C:\MEGASIM\RET\FORMS\CHEQUEPAGTO.FRM
+***** CHEQUEPAGTO.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\CHEQUEPAGTO.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos COMPRAS.frm e C:\MEGASIM\RET\FORMS\COMPRAS.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos CONSULTACEP.frm e C:\MEGASIM\RET\FORMS\CONSULTACEP.FRM
+***** CONSULTACEP.frm
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\CONSULTACEP.FRM
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos consultacliente.frm e C:\MEGASIM\RET\FORMS\CONSULTACLIENTE.FRM
+***** consultacliente.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\CONSULTACLIENTE.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos CONSULTAPEDIDOHORA.frm e C:\MEGASIM\RET\FORMS\CONSULTAPEDIDOHORA.FRM
+***** CONSULTAPEDIDOHORA.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\CONSULTAPEDIDOHORA.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos ConsultaPessoa.frm e C:\MEGASIM\RET\FORMS\CONSULTAPESSOA.FRM
+***** ConsultaPessoa.frm
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\CONSULTAPESSOA.FRM
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos consultausuario.frm e C:\MEGASIM\RET\FORMS\CONSULTAUSUARIO.FRM
+***** consultausuario.frm
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmCONSULTAUSUARIO 
+***** C:\MEGASIM\RET\FORMS\CONSULTAUSUARIO.FRM
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmCONSULTAUSUARIO 
+*****
+
+Comparando os arquivos consultavendedor.frm e C:\MEGASIM\RET\FORMS\CONSULTAVENDEDOR.FRM
+***** consultavendedor.frm
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\CONSULTAVENDEDOR.FRM
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos CONTRATO.frm e C:\MEGASIM\RET\FORMS\CONTRATO.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos CONTRATOOPCAO.frm e C:\MEGASIM\RET\FORMS\CONTRATOOPCAO.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos ControleAcesso.frm e C:\MEGASIM\RET\FORMS\CONTROLEACESSO.FRM
+***** ControleAcesso.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Begin VB.Form FrmControleAcesso 
+***** C:\MEGASIM\RET\FORMS\CONTROLEACESSO.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Begin VB.Form FrmControleAcesso 
+*****
+
+Comparando os arquivos CRIPTOGRAFIA.frm e C:\MEGASIM\RET\FORMS\CRIPTOGRAFIA.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos curvaabc.frm e C:\MEGASIM\RET\FORMS\CURVAABC.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos DISPLAYCLIENTE.frm e C:\MEGASIM\RET\FORMS\DISPLAYCLIENTE.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos DISPLAYEMISSOR.frm e C:\MEGASIM\RET\FORMS\DISPLAYEMISSOR.FRM
+***** DISPLAYEMISSOR.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\DISPLAYEMISSOR.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos DISPLAYENCOMENDA.frm e C:\MEGASIM\RET\FORMS\DISPLAYENCOMENDA.FRM
+***** DISPLAYENCOMENDA.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\DISPLAYENCOMENDA.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos DISPLAYFORNECEDOR.frm e C:\MEGASIM\RET\FORMS\DISPLAYFORNECEDOR.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos displaytransportadora.frm e C:\MEGASIM\RET\FORMS\DISPLAYTRANSPORTADORA.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos ECFAliquota.frm e C:\MEGASIM\RET\FORMS\ECFALIQUOTA.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos ECFCADIMP.frm e C:\MEGASIM\RET\FORMS\ECFCADIMP.FRM
+***** ECFCADIMP.frm
+Object = "{CDE57A40-8B86-11D0-B3C6-00A0C90AEA82}#1.0#0"; "MSDATGRD.OCX"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmECFCADIMP 
+***** C:\MEGASIM\RET\FORMS\ECFCADIMP.FRM
+Object = "{CDE57A40-8B86-11D0-B3C6-00A0C90AEA82}#1.0#0"; "MSDATGRD.OCX"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmECFCADIMP 
+*****
+
+Comparando os arquivos ECFOperacao.frm e C:\MEGASIM\RET\FORMS\ECFOPERACAO.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos EMAIL.frm e C:\MEGASIM\RET\FORMS\EMAIL.FRM
+***** EMAIL.frm
+Object = "{CDE57A40-8B86-11D0-B3C6-00A0C90AEA82}#1.0#0"; "MSDATGRD.OCX"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmEmail 
+***** C:\MEGASIM\RET\FORMS\EMAIL.FRM
+Object = "{CDE57A40-8B86-11D0-B3C6-00A0C90AEA82}#1.0#0"; "MSDATGRD.OCX"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmEmail 
+*****
+
+Comparando os arquivos EmpresaConsulta.frm e C:\MEGASIM\RET\FORMS\EMPRESACONSULTA.FRM
+***** EmpresaConsulta.frm
+Object = "{CDE57A40-8B86-11D0-B3C6-00A0C90AEA82}#1.0#0"; "MSDATGRD.OCX"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmEmpresaConsulta 
+***** C:\MEGASIM\RET\FORMS\EMPRESACONSULTA.FRM
+Object = "{CDE57A40-8B86-11D0-B3C6-00A0C90AEA82}#1.0#0"; "MSDATGRD.OCX"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmEmpresaConsulta 
+*****
+
+Comparando os arquivos EntradaEstoque.frm e C:\MEGASIM\RET\FORMS\ENTRADAESTOQUE.FRM
+***** EntradaEstoque.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\ENTRADAESTOQUE.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos EntradaEstoqueConsulta.frm e C:\MEGASIM\RET\FORMS\ENTRADAESTOQUECONSULTA.FRM
+***** EntradaEstoqueConsulta.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\ENTRADAESTOQUECONSULTA.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos ENTRADAREL.frm e C:\MEGASIM\RET\FORMS\ENTRADAREL.FRM
+***** ENTRADAREL.frm
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\ENTRADAREL.FRM
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos ERROSDB.frm e C:\MEGASIM\RET\FORMS\ERROSDB.FRM
+***** ERROSDB.frm
+Object = "{C2000000-FFFF-1100-8000-000000000001}#8.0#0"; "PVMask.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmERROS 
+***** C:\MEGASIM\RET\FORMS\ERROSDB.FRM
+Object = "{C2000000-FFFF-1100-8000-000000000001}#8.0#0"; "PVMask.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmERROS 
+*****
+
+***** ERROSDB.frm
+   StartUpPosition =   3  'Windows Default
+   Begin PVMaskEditLib.PVMaskEdit txtDtIni 
+      Height          =   375
+      Left            =   840
+      TabIndex        =   0
+      Top             =   840
+***** C:\MEGASIM\RET\FORMS\ERROSDB.FRM
+   StartUpPosition =   3  'Windows Default
+   Begin PVMaskEditLib.PVMaskEdit txtDtFim 
+      Height          =   375
+      Left            =   2520
+      TabIndex        =   1
+      Top             =   840
+*****
+
+***** ERROSDB.frm
+   End
+   Begin PVMaskEditLib.PVMaskEdit txtDtFim 
+      Height          =   375
+      Left            =   2520
+      TabIndex        =   1
+      Top             =   840
+***** C:\MEGASIM\RET\FORMS\ERROSDB.FRM
+   End
+   Begin PVMaskEditLib.PVMaskEdit txtDtIni 
+      Height          =   375
+      Left            =   840
+      TabIndex        =   0
+      Top             =   840
+*****
+
+Comparando os arquivos est.frm e C:\MEGASIM\RET\FORMS\EST.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos ESTOQUEPOSICAO.frm e C:\MEGASIM\RET\FORMS\ESTOQUEPOSICAO.FRM
+***** ESTOQUEPOSICAO.frm
+Object = "{C2000000-FFFF-1100-8000-000000000001}#8.0#0"; "PVMask.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\ESTOQUEPOSICAO.FRM
+Object = "{C2000000-FFFF-1100-8000-000000000001}#8.0#0"; "PVMask.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos fincancelalanc.frm e C:\MEGASIM\RET\FORMS\FINCANCELALANC.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos FINCONSLANCITEM.frm e C:\MEGASIM\RET\FORMS\FINCONSLANCITEM.FRM
+***** FINCONSLANCITEM.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\FINCONSLANCITEM.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos frmAcertoSTA.frm e C:\MEGASIM\RET\FORMS\FRMACERTOSTA.FRM
+***** frmAcertoSTA.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\FRMACERTOSTA.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos frmConsignacao.frm e C:\MEGASIM\RET\FORMS\FRMCONSIGNACAO.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos frmCONSULTAIBGE.frm e C:\MEGASIM\RET\FORMS\FRMCONSULTAIBGE.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos frmControle.frm e C:\MEGASIM\RET\FORMS\FRMCONTROLE.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos frmcripto.frm e C:\MEGASIM\RET\FORMS\FRMCRIPTO.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos frmDISPLAYFUNC.frm e C:\MEGASIM\RET\FORMS\FRMDISPLAYFUNC.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos frmImporta.frm e C:\MEGASIM\RET\FORMS\FRMIMPORTA.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos frmRegistro.frm e C:\MEGASIM\RET\FORMS\FRMREGISTRO.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos frmRelEntrada.frm e C:\MEGASIM\RET\FORMS\FRMRELENTRADA.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos GERACONTAS.frm e C:\MEGASIM\RET\FORMS\GERACONTAS.FRM
+***** GERACONTAS.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\GERACONTAS.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+***** GERACONTAS.frm
+      _ExtentY        =   1270
+      ButtonWidth     =   2646
+      ButtonHeight    =   1111
+***** C:\MEGASIM\RET\FORMS\GERACONTAS.FRM
+      _ExtentY        =   1270
+      ButtonWidth     =   2858
+      ButtonHeight    =   1111
+*****
+
+***** GERACONTAS.frm
+
+   Dt_Baixa_Titulo = ""
+
+   txtDtBaixa.PromptInclude = False
+   If Trim(txtDtBaixa.Text) <> "" Then
+      txtDtBaixa.PromptInclude = True
+      If IsDate(txtDtBaixa.Text) Then _
+         Dt_Baixa_Titulo = txtDtBaixa.Text
+      Dt_Baixa_Titulo = Format(Dt_Baixa_Titulo, "dd/mm/yyyy")
+   End If
+
+   cmbModalidade.Refresh
+***** C:\MEGASIM\RET\FORMS\GERACONTAS.FRM
+
+   Dt_Baixa_Titulo = "null"
+
+   txtDtBaixa.PromptInclude = True
+   If IsDate(txtDtBaixa.Text) Then _
+      Dt_Baixa_Titulo = txtDtBaixa.Text
+
+   Dt_Baixa_Titulo = Format(Dt_Baixa_Titulo, "dd/mm/yyyy")
+   cmbModalidade.Refresh
+*****
+
+***** GERACONTAS.frm
+         SQL = SQL & ", DT_VENCIMENTO = '" & DMA(txtDtVenc.Text) & "'"
+
+         If Trim(txtDtBaixa.Text) <> "" Then _
+            SQL = SQL & ", DT_baixa = '" & Dt_Baixa_Titulo & "'"
+
+         SQL = SQL & ", PERC_DESCONTO = " & tpMOEDA(txtDesconto.Text)
+***** C:\MEGASIM\RET\FORMS\GERACONTAS.FRM
+         SQL = SQL & ", DT_VENCIMENTO = '" & DMA(txtDtVenc.Text) & "'"
+         SQL = SQL & ", DT_baixa = '" & Now & "'"
+         SQL = SQL & ", PERC_DESCONTO = " & tpMOEDA(txtDesconto.Text)
+*****
+
+Comparando os arquivos IBGECONSULTA.frm e C:\MEGASIM\RET\FORMS\IBGECONSULTA.FRM
+***** IBGECONSULTA.frm
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmIBGECONSULTA 
+***** C:\MEGASIM\RET\FORMS\IBGECONSULTA.FRM
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmIBGECONSULTA 
+*****
+
+Comparando os arquivos IMAGEM.frm e C:\MEGASIM\RET\FORMS\IMAGEM.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos IMPORTA12741.frm e C:\MEGASIM\RET\FORMS\IMPORTA12741.FRM
+***** IMPORTA12741.frm
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmIMPORTA12741 
+***** C:\MEGASIM\RET\FORMS\IMPORTA12741.FRM
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmIMPORTA12741 
+*****
+
+Comparando os arquivos ImportaTabelaPreco.frm e C:\MEGASIM\RET\FORMS\IMPORTATABELAPRECO.FRM
+***** ImportaTabelaPreco.frm
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmImportaTabelaPreco 
+***** C:\MEGASIM\RET\FORMS\IMPORTATABELAPRECO.FRM
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmImportaTabelaPreco 
+*****
+
+Comparando os arquivos ImportaToscana.frm e C:\MEGASIM\RET\FORMS\IMPORTATOSCANA.FRM
+***** ImportaToscana.frm
+Object = "{BDC217C8-ED16-11CD-956C-0000C04E4C0A}#1.1#0"; "TABCTL32.OCX"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmImportaToscana 
+***** C:\MEGASIM\RET\FORMS\IMPORTATOSCANA.FRM
+Object = "{BDC217C8-ED16-11CD-956C-0000C04E4C0A}#1.1#0"; "TABCTL32.OCX"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmImportaToscana 
+*****
+
+***** ImportaToscana.frm
+      _ExtentY        =   1270
+      ButtonWidth     =   2355
+      ButtonHeight    =   1111
+***** C:\MEGASIM\RET\FORMS\IMPORTATOSCANA.FRM
+      _ExtentY        =   1270
+      ButtonWidth     =   2461
+      ButtonHeight    =   1111
+*****
+
+***** ImportaToscana.frm
+Private Sub cmdCons2_Click()
+   frmINICIO.Dialogo.DialogTitle = "Selecionar Caminho Arquivo!"
+***** C:\MEGASIM\RET\FORMS\IMPORTATOSCANA.FRM
+
+Private Sub cmdCons2_Click()
+   frmINICIO.Dialogo.DialogTitle = "Selecionar Caminho Arquivo!"
+*****
+
+Comparando os arquivos INDControlePerda.frm e C:\MEGASIM\RET\FORMS\INDCONTROLEPERDA.FRM
+***** INDControlePerda.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\INDCONTROLEPERDA.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos INDControlePerdaConsulta.frm e C:\MEGASIM\RET\FORMS\INDCONTROLEPERDACONSULTA.FRM
+***** INDControlePerdaConsulta.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\INDCONTROLEPERDACONSULTA.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos INDControleProducao.frm e C:\MEGASIM\RET\FORMS\INDCONTROLEPRODUCAO.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos INDRegistroProducao.frm e C:\MEGASIM\RET\FORMS\INDREGISTROPRODUCAO.FRM
+***** INDRegistroProducao.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\INDREGISTROPRODUCAO.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos INDRegistroProducaoConsulta.frm e C:\MEGASIM\RET\FORMS\INDREGISTROPRODUCAOCONSULTA.FRM
+***** INDRegistroProducaoConsulta.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\INDREGISTROPRODUCAOCONSULTA.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos INICIO.frm e C:\MEGASIM\RET\FORMS\INICIO.FRM
+***** INICIO.frm
+Object = "{648A5603-2C6E-101B-82B6-000000000014}#1.1#0"; "MSCOMM32.OCX"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmINICIO 
+***** C:\MEGASIM\RET\FORMS\INICIO.FRM
+Object = "{648A5603-2C6E-101B-82B6-000000000014}#1.1#0"; "MSCOMM32.OCX"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmINICIO 
+*****
+
+***** INICIO.frm
+      Case vbKeyF1
+         If INDR_PANIFIC = False Or USUARIO_ID_N = 144 Then
+            INDR_FIM = True
+***** C:\MEGASIM\RET\FORMS\INICIO.FRM
+      Case vbKeyF1
+         If INDR_PANIFIC = False Then
+            INDR_FIM = True
+*****
+
+Comparando os arquivos INTEGRA.frm e C:\MEGASIM\RET\FORMS\INTEGRA.FRM
+***** INTEGRA.frm
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmINTEGRA 
+***** C:\MEGASIM\RET\FORMS\INTEGRA.FRM
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmINTEGRA 
+*****
+
+***** INTEGRA.frm
+
+         SQL = "select max(R_E_C_N_O_) from SA1010 "
+         TabConsulta.Open SQL, CONECTA_GLOBAL, , , adCmdText
+***** C:\MEGASIM\RET\FORMS\INTEGRA.FRM
+
+         SQL = "select max(A1_COD) from SA1010 "
+         TabConsulta.Open SQL, CONECTA_GLOBAL, , , adCmdText
+*****
+
+***** INTEGRA.frm
+               A1_COD = TabConsulta.Fields(0).Value + 1
+         If TabConsulta.State = 1 Then _
+***** C:\MEGASIM\RET\FORMS\INTEGRA.FRM
+               A1_COD = TabConsulta.Fields(0).Value + 1
+
+         If TabConsulta.State = 1 Then _
+*****
+
+***** INTEGRA.frm
+
+         'While Len(Trim(A1_COD)) < 6
+         '   A1_COD = "0" & A1_COD
+         'Wend
+
+***** C:\MEGASIM\RET\FORMS\INTEGRA.FRM
+
+         While Len(Trim(A1_COD)) < 6
+            A1_COD = "0" & A1_COD
+         Wend
+
+*****
+
+***** INTEGRA.frm
+***** C:\MEGASIM\RET\FORMS\INTEGRA.FRM
+
+*****
+
+Comparando os arquivos INVENTARIO.frm e C:\MEGASIM\RET\FORMS\INVENTARIO.FRM
+***** INVENTARIO.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\INVENTARIO.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+***** INVENTARIO.frm
+      Tab(1).ControlEnabled=   0   'False
+      Tab(1).Control(0)=   "cmdacerto"
+      Tab(1).Control(1)=   "cmdimp"
+      Tab(1).Control(2)=   "cmddif"
+      Tab(1).Control(3)=   "Label1"
+      Tab(1).Control(4)=   "Label3"
+      Tab(1).ControlCount=   5
+***** C:\MEGASIM\RET\FORMS\INVENTARIO.FRM
+      Tab(1).ControlEnabled=   0   'False
+      Tab(1).Control(0)=   "Label3"
+      Tab(1).Control(1)=   "Label1"
+      Tab(1).Control(2)=   "cmddif"
+      Tab(1).Control(3)=   "cmdimp"
+      Tab(1).Control(4)=   "cmdacerto"
+      Tab(1).ControlCount=   5
+*****
+
+Comparando os arquivos InventarioConsulta.frm e C:\MEGASIM\RET\FORMS\INVENTARIOCONSULTA.FRM
+***** InventarioConsulta.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\INVENTARIOCONSULTA.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos InventarioProduto.frm e C:\MEGASIM\RET\FORMS\INVENTARIOPRODUTO.FRM
+***** InventarioProduto.frm
+Object = "{F20E41DE-526A-423A-B746-D860D06076B4}#4.0#0"; "IGThreed40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\INVENTARIOPRODUTO.FRM
+Object = "{F20E41DE-526A-423A-B746-D860D06076B4}#4.0#0"; "IGThreed40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos Kardex.frm e C:\MEGASIM\RET\FORMS\KARDEX.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos listapreco.frm e C:\MEGASIM\RET\FORMS\LISTAPRECO.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos LIXO.frm e C:\MEGASIM\RET\FORMS\LIXO.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos LOGON.frm e C:\MEGASIM\RET\FORMS\LOGON.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos LojAliquota.frm e C:\MEGASIM\RET\FORMS\LOJALIQUOTA.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos LojApre.frm e C:\MEGASIM\RET\FORMS\LOJAPRE.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos LojECFLeituraMemoriaData.frm e C:\MEGASIM\RET\FORMS\LOJECFLEITURAMEMORIADATA.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos LSTPRECO.frm e C:\MEGASIM\RET\FORMS\LSTPRECO.FRM
+***** LSTPRECO.frm
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\LSTPRECO.FRM
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos MGV.frm e C:\MEGASIM\RET\FORMS\MGV.FRM
+***** MGV.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmMGV 
+***** C:\MEGASIM\RET\FORMS\MGV.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmMGV 
+*****
+
+Comparando os arquivos Movimento_Nota_Fiscal_Entrada.frm e C:\MEGASIM\RET\FORMS\MOVIMENTO_NOTA_FISCAL_ENTRADA.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos NFECANCELA.frm e C:\MEGASIM\RET\FORMS\NFECANCELA.FRM
+***** NFECANCELA.frm
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\NFECANCELA.FRM
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos NFECONSULTA.frm e C:\MEGASIM\RET\FORMS\NFECONSULTA.FRM
+***** NFECONSULTA.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\NFECONSULTA.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos NFeContador.frm e C:\MEGASIM\RET\FORMS\NFECONTADOR.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos NFEDEVOLUCAO.frm e C:\MEGASIM\RET\FORMS\NFEDEVOLUCAO.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos NFEDIVERSAS.frm e C:\MEGASIM\RET\FORMS\NFEDIVERSAS.FRM
+***** NFEDIVERSAS.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\NFEDIVERSAS.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos NFEENTRADACAD.frm e C:\MEGASIM\RET\FORMS\NFEENTRADACAD.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos NFeMANUT.frm e C:\MEGASIM\RET\FORMS\NFEMANUT.FRM
+***** NFeMANUT.frm
+Object = "{BDC217C8-ED16-11CD-956C-0000C04E4C0A}#1.1#0"; "TABCTL32.OCX"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmNFeMANUT 
+***** C:\MEGASIM\RET\FORMS\NFEMANUT.FRM
+Object = "{BDC217C8-ED16-11CD-956C-0000C04E4C0A}#1.1#0"; "TABCTL32.OCX"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmNFeMANUT 
+*****
+
+***** NFeMANUT.frm
+      Tab(1).ControlEnabled=   0   'False
+      Tab(1).Control(0)=   "txtNFe"
+      Tab(1).Control(1)=   "Label1(0)"
+      Tab(1).Control(2)=   "Label1(2)"
+      Tab(1).ControlCount=   3
+***** C:\MEGASIM\RET\FORMS\NFEMANUT.FRM
+      Tab(1).ControlEnabled=   0   'False
+      Tab(1).Control(0)=   "Label1(2)"
+      Tab(1).Control(1)=   "Label1(0)"
+      Tab(1).Control(2)=   "txtNFe"
+      Tab(1).ControlCount=   3
+*****
+
+Comparando os arquivos NFG.frm e C:\MEGASIM\RET\FORMS\NFG.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos NOTACONSULTA.frm e C:\MEGASIM\RET\FORMS\NOTACONSULTA.FRM
+***** NOTACONSULTA.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\NOTACONSULTA.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos NOTADISPLAY.frm e C:\MEGASIM\RET\FORMS\NOTADISPLAY.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos NOTAENTRADA.frm e C:\MEGASIM\RET\FORMS\NOTAENTRADA.FRM
+***** NOTAENTRADA.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\NOTAENTRADA.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos NOTAENTRADACONSULTA.frm e C:\MEGASIM\RET\FORMS\NOTAENTRADACONSULTA.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos NOTAENTRADAFINANC.frm e C:\MEGASIM\RET\FORMS\NOTAENTRADAFINANC.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos NOTAGERA.frm e C:\MEGASIM\RET\FORMS\NOTAGERA.FRM
+***** NOTAGERA.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\NOTAGERA.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos OBS.frm e C:\MEGASIM\RET\FORMS\OBS.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos oldPEDIDOBALCAO.frm e C:\MEGASIM\RET\FORMS\OLDPEDIDOBALCAO.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos PEDIDO.frm e C:\MEGASIM\RET\FORMS\PEDIDO.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos PEDIDOBALCAO.frm e C:\MEGASIM\RET\FORMS\PEDIDOBALCAO.FRM
+***** PEDIDOBALCAO.frm
+Object = "{C2000000-FFFF-1100-8000-000000000001}#8.0#0"; "PVMask.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\PEDIDOBALCAO.FRM
+Object = "{C2000000-FFFF-1100-8000-000000000001}#8.0#0"; "PVMask.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos PEDIDOBALCAOpanif.frm e C:\MEGASIM\RET\FORMS\PEDIDOBALCAOPANIF.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos PEDIDOBARRAS.frm e C:\MEGASIM\RET\FORMS\PEDIDOBARRAS.FRM
+***** PEDIDOBARRAS.frm
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmPEDIDOBARRAS 
+***** C:\MEGASIM\RET\FORMS\PEDIDOBARRAS.FRM
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmPEDIDOBARRAS 
+*****
+
+Comparando os arquivos PEDIDOCANCELA.frm e C:\MEGASIM\RET\FORMS\PEDIDOCANCELA.FRM
+***** PEDIDOCANCELA.frm
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\PEDIDOCANCELA.FRM
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos PedidoClienteAcerto.frm e C:\MEGASIM\RET\FORMS\PEDIDOCLIENTEACERTO.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos PEDIDOCOMPRACADASTRO.frm e C:\MEGASIM\RET\FORMS\PEDIDOCOMPRACADASTRO.FRM
+***** PEDIDOCOMPRACADASTRO.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\PEDIDOCOMPRACADASTRO.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos PedidoCompraConsulta.frm e C:\MEGASIM\RET\FORMS\PEDIDOCOMPRACONSULTA.FRM
+***** PedidoCompraConsulta.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\PEDIDOCOMPRACONSULTA.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos PEDIDOCONSULTA.frm e C:\MEGASIM\RET\FORMS\PEDIDOCONSULTA.FRM
+***** PEDIDOCONSULTA.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\PEDIDOCONSULTA.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+***** PEDIDOCONSULTA.frm
+Option Explicit
+   Dim SQL_CONSULTA        As String
+   Dim SQL_CONSULTA_CORPO  As String
+   Dim SQL_CONSULTA3       As String
+
+***** C:\MEGASIM\RET\FORMS\PEDIDOCONSULTA.FRM
+Option Explicit
+   Dim SQL_CONSULTA  As String
+   Dim SQL_CONSULTA2 As String
+   Dim SQL_CONSULTA3 As String
+
+*****
+
+***** PEDIDOCONSULTA.frm
+
+'SQL_CONSULTA = SQL_CONSULTA & SQL_CONSULTA_CORPO & " order by PEDIDO_ID desc"
+
+***** C:\MEGASIM\RET\FORMS\PEDIDOCONSULTA.FRM
+
+'SQL_CONSULTA = SQL_CONSULTA & SQL_CONSULTA2 & " order by PEDIDO_ID desc"
+
+*****
+
+***** PEDIDOCONSULTA.frm
+   SQL_CONSULTA = ""
+   SQL_CONSULTA_CORPO = ""
+   SQL_CONSULTA3 = ""
+***** C:\MEGASIM\RET\FORMS\PEDIDOCONSULTA.FRM
+   SQL_CONSULTA = ""
+   SQL_CONSULTA2 = ""
+   SQL_CONSULTA3 = ""
+*****
+
+***** PEDIDOCONSULTA.frm
+   SQL_CONSULTA = ""
+   SQL_CONSULTA_CORPO = ""
+   SQL_CONSULTA3 = ""
+***** C:\MEGASIM\RET\FORMS\PEDIDOCONSULTA.FRM
+   SQL_CONSULTA = ""
+   SQL_CONSULTA2 = ""
+   SQL_CONSULTA3 = ""
+*****
+
+***** PEDIDOCONSULTA.frm
+
+   Dim SQL_COUNT  As String
+   SQL_COUNT = ""
+
+   SQL_CONSULTA = "SELECT * from vwCONSULTA_PEDIDO WITH (NOLOCK) "
+SQL_COUNT = "select count(pedido_id) from PEDIDO "
+
+   SQL_CONSULTA_CORPO = SQL_CONSULTA_CORPO & " where pedido_id Is Not Null"
+   SQL_CONSULTA_CORPO = SQL_CONSULTA_CORPO & " and estabelecimento_id = " & cmbEstabAUX.Text
+
+'itens pedido
+SQL = SQL & " and status <> 'C'"
+
+***** C:\MEGASIM\RET\FORMS\PEDIDOCONSULTA.FRM
+
+   SQL_CONSULTA = "SELECT * from vwCONSULTA_PEDIDO WITH (NOLOCK) "
+
+   SQL_CONSULTA2 = SQL_CONSULTA2 & " where pedido_id Is Not Null"
+   SQL_CONSULTA2 = SQL_CONSULTA2 & " and estabelecimento_id = " & cmbEstabAUX.Text
+
+*****
+
+***** PEDIDOCONSULTA.frm
+      If IsNumeric(cmbCPUaux.Text) Then _
+         SQL_CONSULTA_CORPO = SQL_CONSULTA_CORPO & " and numero_caixa_cpu = " & cmbCPUaux.Text
+
+***** C:\MEGASIM\RET\FORMS\PEDIDOCONSULTA.FRM
+      If IsNumeric(cmbCPUaux.Text) Then _
+         SQL_CONSULTA2 = SQL_CONSULTA2 & " and numero_caixa_cpu = " & cmbCPUaux.Text
+
+   If Trim(txtProduto.Text) <> "" Then _
+      SQL_CONSULTA2 = SQL_CONSULTA2 & " and produto_id = " & PRODUTO_ID_N
+
+   If Trim(txtCupom.Text) <> "" Then _
+      SQL_CONSULTA2 = SQL_CONSULTA2 & " and numr_cupom = " & txtCupom.Text
+
+   If Trim(txtNOTA.Text) <> "" Then _
+      SQL_CONSULTA2 = SQL_CONSULTA2 & " and numr_nota = " & txtNOTA.Text
+
+*****
+
+***** PEDIDOCONSULTA.frm
+   If Trim(txtPedido.Text) <> "" Then _
+      SQL_CONSULTA_CORPO = SQL_CONSULTA_CORPO & " and pedido_id = " & txtPedido.Text
+
+***** C:\MEGASIM\RET\FORMS\PEDIDOCONSULTA.FRM
+   If Trim(txtPedido.Text) <> "" Then _
+      SQL_CONSULTA2 = SQL_CONSULTA2 & " and pedido_id = " & txtPedido.Text
+
+*****
+
+***** PEDIDOCONSULTA.frm
+      If CLIENTE_ID_N > 0 Then _
+         SQL_CONSULTA_CORPO = SQL_CONSULTA_CORPO & " and cliente_id = " & CLIENTE_ID_N
+   txtCNPJCPF.PromptInclude = True
+***** C:\MEGASIM\RET\FORMS\PEDIDOCONSULTA.FRM
+      If CLIENTE_ID_N > 0 Then _
+         SQL_CONSULTA2 = SQL_CONSULTA2 & " and cliente_id = " & CLIENTE_ID_N
+   txtCNPJCPF.PromptInclude = True
+*****
+
+***** PEDIDOCONSULTA.frm
+   If Trim(cmbVend.Text) <> "" Then _
+      SQL_CONSULTA_CORPO = SQL_CONSULTA_CORPO & " and vendedor_id = " & cmbVendAux.Text
+
+
+***** C:\MEGASIM\RET\FORMS\PEDIDOCONSULTA.FRM
+   If Trim(cmbVend.Text) <> "" Then _
+      SQL_CONSULTA2 = SQL_CONSULTA2 & " and vendedor_id = " & cmbVendAux.Text
+
+   If Trim(cmbSituacaoAUX.Text) <> "" Then
+      If Trim(cmbSituacaoAUX.Text) = "'7','5','3'" Then _
+         SQL_CONSULTA2 = SQL_CONSULTA2 & " and numr_nota > 0 "
+
+      SQL_CONSULTA2 = SQL_CONSULTA2 & " and SIT_PEDIDO in (" & Trim(cmbSituacaoAUX.Text) & ")"
+   End If
+
+*****
+
+***** PEDIDOCONSULTA.frm
+   If Trim(cmbAuxForma.Text) <> "" Then _
+      SQL_CONSULTA_CORPO = SQL_CONSULTA_CORPO & " and tipovenda_id = " & cmbAuxForma.Text
+
+***** C:\MEGASIM\RET\FORMS\PEDIDOCONSULTA.FRM
+   If Trim(cmbAuxForma.Text) <> "" Then _
+      SQL_CONSULTA2 = SQL_CONSULTA2 & " and tipovenda_id = " & cmbAuxForma.Text
+
+*****
+
+***** PEDIDOCONSULTA.frm
+   If IsDate(txtDtIni.Text) And IsDate(txtDtFim.Text) Then
+      SQL_CONSULTA_CORPO = SQL_CONSULTA_CORPO & " and dt_req >= '" & txtDtIni.Text & "'"
+      SQL_CONSULTA_CORPO = SQL_CONSULTA_CORPO & " and dt_req <= '" & txtDtFim.Text & "'"
+   End If
+***** C:\MEGASIM\RET\FORMS\PEDIDOCONSULTA.FRM
+   If IsDate(txtDtIni.Text) And IsDate(txtDtFim.Text) Then
+      SQL_CONSULTA2 = SQL_CONSULTA2 & " and dt_req >= '" & txtDtIni.Text & "'"
+      SQL_CONSULTA2 = SQL_CONSULTA2 & " and dt_req <= '" & txtDtFim.Text & "'"
+   End If
+*****
+
+***** PEDIDOCONSULTA.frm
+
+   If Trim(txtComanda.Text) <> "" Then _
+***** C:\MEGASIM\RET\FORMS\PEDIDOCONSULTA.FRM
+
+   If Trim(cmbFamiliaAUX.Text) <> "" Then _
+      If IsNumeric(cmbFamiliaAUX.Text) Then _
+         SQL_CONSULTA2 = SQL_CONSULTA2 & " and familiaproduto_id = " & cmbFamiliaAUX.Text
+
+   If Trim(txtComanda.Text) <> "" Then _
+*****
+
+***** PEDIDOCONSULTA.frm
+      If IsNumeric(txtComanda.Text) Then _
+         SQL_CONSULTA_CORPO = SQL_CONSULTA_CORPO & " and cartaobarra_id = " & txtComanda.Text
+
+***** C:\MEGASIM\RET\FORMS\PEDIDOCONSULTA.FRM
+      If IsNumeric(txtComanda.Text) Then _
+         SQL_CONSULTA2 = SQL_CONSULTA2 & " and cartaobarra_id = " & txtComanda.Text
+
+*****
+
+***** PEDIDOCONSULTA.frm
+'===============
+SQL_COUNT = SQL_COUNT & SQL_CONSULTA_CORPO
+
+   If Trim(cmbSituacaoAUX.Text) <> "" Then
+      If Trim(cmbSituacaoAUX.Text) = "'7','5','3'" Then _
+         SQL_COUNT = SQL_COUNT & " and numr_nota > 0 "
+
+      SQL_COUNT = SQL_COUNT & " and status in (" & Trim(cmbSituacaoAUX.Text) & ")"
+   End If
+'===============
+   
+   If Trim(cmbSituacaoAUX.Text) <> "" Then
+      If Trim(cmbSituacaoAUX.Text) = "'7','5','3'" Then _
+         SQL_CONSULTA_CORPO = SQL_CONSULTA_CORPO & " and numr_nota > 0 "
+
+      SQL_CONSULTA_CORPO = SQL_CONSULTA_CORPO & " and SIT_PEDIDO in (" & Trim(cmbSituacaoAUX.Text) & ")"
+   End If
+   If Trim(txtProduto.Text) <> "" Then _
+      SQL_CONSULTA_CORPO = SQL_CONSULTA_CORPO & " and produto_id = " & PRODUTO_ID_N
+
+   If Trim(cmbFamiliaAUX.Text) <> "" Then _
+      If IsNumeric(cmbFamiliaAUX.Text) Then _
+         SQL_CONSULTA_CORPO = SQL_CONSULTA_CORPO & " and familiaproduto_id = " & cmbFamiliaAUX.Text
+
+   If Trim(txtCupom.Text) <> "" Then _
+      SQL_CONSULTA_CORPO = SQL_CONSULTA_CORPO & " and numr_cupom = " & txtCupom.Text
+
+   If Trim(txtNOTA.Text) <> "" Then _
+      SQL_CONSULTA_CORPO = SQL_CONSULTA_CORPO & " and numr_nota = " & txtNOTA.Text
+
+'===============
+
+   Dim SQL_ITENS        As String
+***** C:\MEGASIM\RET\FORMS\PEDIDOCONSULTA.FRM
+'===============
+   Dim SQL_ITENS        As String
+*****
+
+***** PEDIDOCONSULTA.frm
+
+   SQL_CONSULTA = SQL_CONSULTA & SQL_CONSULTA_CORPO & " order by PEDIDO_ID desc"
+
+'Debug.Print SQL_CONSULTA
+***** C:\MEGASIM\RET\FORMS\PEDIDOCONSULTA.FRM
+
+   SQL_CONSULTA = SQL_CONSULTA & SQL_CONSULTA2 & " order by PEDIDO_ID desc"
+'Debug.Print SQL_CONSULTA
+*****
+
+***** PEDIDOCONSULTA.frm
+   SQL_ITENS = "select count(qtd_pedida) from vwCONSULTA_PEDIDO WITH (NOLOCK) "
+   SQL_ITENS = SQL_ITENS & SQL_CONSULTA_CORPO
+   SQL_ITENS = SQL_ITENS & " and vwCONSULTA_PEDIDO.tipo_reg = 'PC' "
+***** C:\MEGASIM\RET\FORMS\PEDIDOCONSULTA.FRM
+   SQL_ITENS = "select count(qtd_pedida) from vwCONSULTA_PEDIDO WITH (NOLOCK) "
+   SQL_ITENS = SQL_ITENS & SQL_CONSULTA2
+   SQL_ITENS = SQL_ITENS & " and vwCONSULTA_PEDIDO.tipo_reg = 'PC' "
+*****
+
+***** PEDIDOCONSULTA.frm
+   SQL_ITENS = SQL_ITENS & " and vwCONSULTA_PEDIDO.status <> 'C' "
+   SQL = SQL & " and status <> 'C'"
+   TabTemp.Open SQL_ITENS, CONECTA_RETAGUARDA, , , adCmdText
+***** C:\MEGASIM\RET\FORMS\PEDIDOCONSULTA.FRM
+   SQL_ITENS = SQL_ITENS & " and vwCONSULTA_PEDIDO.status <> 'C' "
+   TabTemp.Open SQL_ITENS, CONECTA_RETAGUARDA, , , adCmdText
+*****
+
+***** PEDIDOCONSULTA.frm
+
+'Debug.Print SQL_COUNT
+
+   'TabTemp.Open SQL_COUNT, CONECTA_RETAGUARDA, , , adCmdText
+   'If Not IsNull(TabTemp.Fields(0).Value) Then
+   '   txtReg.Text = CONTA_REGISTRO_N
+   '   txtReg.Refresh
+   'End If
+   'If TabTemp.State = 1 Then _
+      TabTemp.Close
+
+   txtQtdeProd.Text = Conta_Produto_N
+***** C:\MEGASIM\RET\FORMS\PEDIDOCONSULTA.FRM
+
+   txtQtdeProd.Text = Conta_Produto_N
+*****
+
+Comparando os arquivos PedidoConsultaAtendente.frm e C:\MEGASIM\RET\FORMS\PEDIDOCONSULTAATENDENTE.FRM
+***** PedidoConsultaAtendente.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\PEDIDOCONSULTAATENDENTE.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+***** PedidoConsultaAtendente.frm
+   Begin VB.CommandButton Command1 
+      Caption         =   "Atualiza Cadastro Atendente (bc.xls)"
+      Height          =   495
+      Left            =   6480
+      TabIndex        =   37
+***** C:\MEGASIM\RET\FORMS\PEDIDOCONSULTAATENDENTE.FRM
+   Begin VB.CommandButton Command1 
+      Caption         =   "Command1"
+      Height          =   255
+      Left            =   3360
+      TabIndex        =   37
+*****
+
+***** PedidoConsultaAtendente.frm
+   txtCli.Text = ""
+   txtQtdeProd.Text = ""
+
+***** C:\MEGASIM\RET\FORMS\PEDIDOCONSULTAATENDENTE.FRM
+   txtCli.Text = ""
+
+*****
+
+***** PedidoConsultaAtendente.frm
+   txtDtFim.PromptInclude = True
+SQL = ""
+   sql_cabeca = "SELECT PEDIDOITEM.USU_ATENDE, PEDIDO.CLIENTE_ID, PEDIDO.VENDEDOR_ID, "
+   sql_cabeca = sql_cabeca & " PEDIDO.DT_REQ, PEDIDO.STATUS AS StatusPedido, PEDIDOITEM.PEDIDO_ID, "
+   sql_cabeca = sql_cabeca & " PEDIDOITEM.SEQ_ID, PEDIDOITEM.PRODUTO_ID, PEDIDOITEM.QTD_PEDIDA, "
+   sql_cabeca = sql_cabeca & " PEDIDOITEM.VALOR_ITEM as PrVenda, PEDIDOITEM.STATUS AS StatusItem,"
+   sql_cabeca = sql_cabeca & " USUARIO.PESSOA_ID , PESSOA.CNPJCPF, PESSOA.DESCRICAO,tipovenda_id"
+   sql_cabeca = sql_cabeca & " FROM PEDIDO WITH (NOLOCK)"
+   sql_cabeca = sql_cabeca & " INNER JOIN PEDIDOITEM WITH (NOLOCK)"
+   sql_cabeca = sql_cabeca & " ON PEDIDO.PEDIDO_ID = PEDIDOITEM.PEDIDO_ID "
+   sql_cabeca = sql_cabeca & " AND PEDIDO.PEDIDO_ID = PEDIDOITEM.PEDIDO_ID "
+   sql_cabeca = sql_cabeca & " INNER JOIN USUARIO WITH (NOLOCK)"
+   sql_cabeca = sql_cabeca & " ON PEDIDOITEM.USU_ATENDE = USUARIO.USUARIO_ID "
+   sql_cabeca = sql_cabeca & " INNER JOIN PESSOA WITH (NOLOCK)"
+   sql_cabeca = sql_cabeca & " ON USUARIO.PESSOA_ID = PESSOA.PESSOA_ID"
+   sql_cabeca = sql_cabeca & " where PEDIDOITEM.pedido_id > 0"
+
+SQL_COUNT = "select count(pedido_id) from PEDIDO "
+
+   'SQL = SQL & " where PEDIDOITEM.usu_atende > 0"
+
+   SQL_COUNT = SQL_COUNT & " where PEDIDO.pedido_id > 0"
+
+***** C:\MEGASIM\RET\FORMS\PEDIDOCONSULTAATENDENTE.FRM
+   txtDtFim.PromptInclude = True
+
+   SQL = "SELECT PEDIDOITEM.USU_ATENDE, PEDIDO.CLIENTE_ID, PEDIDO.VENDEDOR_ID, "
+   SQL = SQL & " PEDIDO.DT_REQ, PEDIDO.STATUS AS StatusPedido, PEDIDOITEM.PEDIDO_ID, "
+   SQL = SQL & " PEDIDOITEM.SEQ_ID, PEDIDOITEM.PRODUTO_ID, PEDIDOITEM.QTD_PEDIDA, "
+   SQL = SQL & " PEDIDOITEM.VALOR_ITEM as PrVenda, PEDIDOITEM.STATUS AS StatusItem,"
+   SQL = SQL & " USUARIO.PESSOA_ID , PESSOA.CNPJCPF, PESSOA.DESCRICAO,tipovenda_id"
+   SQL = SQL & " FROM PEDIDO WITH (NOLOCK)"
+   SQL = SQL & " INNER JOIN PEDIDOITEM WITH (NOLOCK)"
+   SQL = SQL & " ON PEDIDO.PEDIDO_ID = PEDIDOITEM.PEDIDO_ID "
+   SQL = SQL & " AND PEDIDO.PEDIDO_ID = PEDIDOITEM.PEDIDO_ID "
+   SQL = SQL & " INNER JOIN USUARIO WITH (NOLOCK)"
+   SQL = SQL & " ON PEDIDOITEM.USU_ATENDE = USUARIO.USUARIO_ID "
+   SQL = SQL & " INNER JOIN PESSOA WITH (NOLOCK)"
+   SQL = SQL & " ON USUARIO.PESSOA_ID = PESSOA.PESSOA_ID"
+
+   SQL = SQL & " where PEDIDOITEM.usu_atende > 0"
+   'SQL = SQL & " where PEDIDOITEM.pedido_id > 0"
+
+   If Trim(txtProduto.Text) <> "" Then _
+      SQL = SQL & " and PEDIDOITEM.produto_id = " & PRODUTO_ID_N
+
+*****
+
+***** PedidoConsultaAtendente.frm
+
+   If Trim(cmbSituacaoAUX.Text) <> "" Then _
+***** C:\MEGASIM\RET\FORMS\PEDIDOCONSULTAATENDENTE.FRM
+
+   If Trim(cmbVend.Text) <> "" Then _
+      SQL = SQL & " and usu_atende = " & cmbVendAux.Text
+
+   If Trim(cmbSituacaoAUX.Text) <> "" Then _
+*****
+
+***** PedidoConsultaAtendente.frm
+
+SQL_COUNT = SQL_COUNT & SQL
+'=================
+   If Trim(cmbVend.Text) <> "" Then _
+      SQL = SQL & " and usu_atende = " & cmbVendAux.Text
+
+   If Trim(txtProduto.Text) <> "" Then _
+      SQL = SQL & " and PEDIDOITEM.produto_id = " & PRODUTO_ID_N
+
+   If Trim(cmbFamiliaAUX.Text) <> "" Then _
+***** C:\MEGASIM\RET\FORMS\PEDIDOCONSULTAATENDENTE.FRM
+
+   If Trim(cmbFamiliaAUX.Text) <> "" Then _
+*****
+
+***** PedidoConsultaAtendente.frm
+
+sql_cabeca = sql_cabeca & SQL
+   CONTA_REGISTRO_N = 0
+***** C:\MEGASIM\RET\FORMS\PEDIDOCONSULTAATENDENTE.FRM
+
+   CONTA_REGISTRO_N = 0
+*****
+
+***** PedidoConsultaAtendente.frm
+
+   TabPedido.Open sql_cabeca, CONECTA_RETAGUARDA, , , adCmdText
+   If TabPedido.EOF Then
+***** C:\MEGASIM\RET\FORMS\PEDIDOCONSULTAATENDENTE.FRM
+
+   TabPedido.Open SQL, CONECTA_RETAGUARDA, , , adCmdText
+   If TabPedido.EOF Then
+*****
+
+***** PedidoConsultaAtendente.frm
+
+'Debug.Print SQL
+
+   While Not TabPedido.EOF
+***** C:\MEGASIM\RET\FORMS\PEDIDOCONSULTAATENDENTE.FRM
+
+   While Not TabPedido.EOF
+*****
+
+***** PedidoConsultaAtendente.frm
+         SQL = SQL & " where pedido_id = " & PEDIDO_ID_N
+         SQL = SQL & " and status <> 'C'"
+         TabAUX.Open SQL, CONECTA_RETAGUARDA, , , adCmdText
+***** C:\MEGASIM\RET\FORMS\PEDIDOCONSULTAATENDENTE.FRM
+         SQL = SQL & " where pedido_id = " & PEDIDO_ID_N
+         TabAUX.Open SQL, CONECTA_RETAGUARDA, , , adCmdText
+*****
+
+***** PedidoConsultaAtendente.frm
+         SQL = SQL & " and usu_atende = " & ATENDENTE_ID_N
+         SQL = SQL & " and status <> 'C'"
+         TabAUX.Open SQL, CONECTA_RETAGUARDA, , , adCmdText
+***** C:\MEGASIM\RET\FORMS\PEDIDOCONSULTAATENDENTE.FRM
+         SQL = SQL & " and usu_atende = " & ATENDENTE_ID_N
+         TabAUX.Open SQL, CONECTA_RETAGUARDA, , , adCmdText
+*****
+
+***** PedidoConsultaAtendente.frm
+         TabConsulta.Close
+
+***** C:\MEGASIM\RET\FORMS\PEDIDOCONSULTAATENDENTE.FRM
+         TabConsulta.Close
+'==============
+
+*****
+
+***** PedidoConsultaAtendente.frm
+
+  If TabTemp.State = 1 Then _
+      TabTemp.Close
+   TabTemp.Open SQL_COUNT, CONECTA_RETAGUARDA, , , adCmdText
+   If Not IsNull(TabTemp.Fields(0).Value) Then
+      txtReg.Text = TabTemp.Fields(0).Value
+      txtReg.Refresh
+   End If
+   If TabTemp.State = 1 Then _
+      TabTemp.Close
+
+   HORA_FIM = Time
+***** C:\MEGASIM\RET\FORMS\PEDIDOCONSULTAATENDENTE.FRM
+
+   HORA_FIM = Time
+*****
+
+***** PedidoConsultaAtendente.frm
+'=====================
+   If TabConsulta.State = 1 Then _
+      TabConsulta.Close
+   SQL = "select count(pedido_id) from REL_ATENDENTE"
+   TabConsulta.Open SQL, CONECTA_RETAGUARDA, , , adCmdText
+   If Not TabConsulta.EOF Then _
+      If Not IsNull(TabConsulta.Fields(0).Value) Then _
+         txtReg.Text = "" & TabConsulta.Fields(0).Value
+   If TabConsulta.State = 1 Then _
+      TabConsulta.Close
+
+   SQL = "SELECT sum(qtde_itens_pedido) FROM REL_ATENDENTE WITH (NOLOCK)"
+   TabConsulta.Open SQL, CONECTA_RETAGUARDA, , , adCmdText
+   If Not TabConsulta.EOF Then _
+      If Not IsNull(TabConsulta.Fields(0).Value) Then _
+         txtQtdeProd.Text = "" & TabConsulta.Fields(0).Value
+   If TabConsulta.State = 1 Then _
+      TabConsulta.Close
+
+***** C:\MEGASIM\RET\FORMS\PEDIDOCONSULTAATENDENTE.FRM
+'=====================
+
+*****
+
+***** PedidoConsultaAtendente.frm
+
+'MsgBox TabConsulta(2).Value
+
+      If Not IsNull(TabConsulta(2).Value) Then
+***** C:\MEGASIM\RET\FORMS\PEDIDOCONSULTAATENDENTE.FRM
+
+      If Not IsNull(TabConsulta(2).Value) Then
+*****
+
+***** PedidoConsultaAtendente.frm
+         SQL = SQL & " where pedido_id = " & TabTempGrid.Fields("pedido_id").Value
+         SQL = SQL & " and status <> 'C'"
+         TabConsulta.Open SQL, CONECTA_RETAGUARDA, , , adCmdText
+***** C:\MEGASIM\RET\FORMS\PEDIDOCONSULTAATENDENTE.FRM
+         SQL = SQL & " where pedido_id = " & TabTempGrid.Fields("pedido_id").Value
+         TabConsulta.Open SQL, CONECTA_RETAGUARDA, , , adCmdText
+*****
+
+Comparando os arquivos PedidoConsultaLibera.frm e C:\MEGASIM\RET\FORMS\PEDIDOCONSULTALIBERA.FRM
+***** PedidoConsultaLibera.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\PEDIDOCONSULTALIBERA.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos PedidoConsultaSimples.frm e C:\MEGASIM\RET\FORMS\PEDIDOCONSULTASIMPLES.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos PEDIDODETALHE.frm e C:\MEGASIM\RET\FORMS\PEDIDODETALHE.FRM
+***** PEDIDODETALHE.frm
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmPEDIDODETALHE 
+***** C:\MEGASIM\RET\FORMS\PEDIDODETALHE.FRM
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmPEDIDODETALHE 
+*****
+
+Comparando os arquivos PEDIDOEDITAR.frm e C:\MEGASIM\RET\FORMS\PEDIDOEDITAR.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos PEDIDOFATURA.frm e C:\MEGASIM\RET\FORMS\PEDIDOFATURA.FRM
+***** PEDIDOFATURA.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\PEDIDOFATURA.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos PedidoLibera.frm e C:\MEGASIM\RET\FORMS\PEDIDOLIBERA.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos PEDIDOPANIFIC.frm e C:\MEGASIM\RET\FORMS\PEDIDOPANIFIC.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos PEDIDOTEMP.frm e C:\MEGASIM\RET\FORMS\PEDIDOTEMP.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos PedidoVenda.frm e C:\MEGASIM\RET\FORMS\PEDIDOVENDA.FRM
+***** PedidoVenda.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\PEDIDOVENDA.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos PRINT.frm e C:\MEGASIM\RET\FORMS\PRINT.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos PRODUTOCONSULTA.frm e C:\MEGASIM\RET\FORMS\PRODUTOCONSULTA.FRM
+***** PRODUTOCONSULTA.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmProdutoConsulta 
+***** C:\MEGASIM\RET\FORMS\PRODUTOCONSULTA.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmProdutoConsulta 
+*****
+
+Comparando os arquivos PRODUTOENTREGA.frm e C:\MEGASIM\RET\FORMS\PRODUTOENTREGA.FRM
+***** PRODUTOENTREGA.frm
+Object = "{EDF439C0-99E5-11CF-AFF3-004005100200}#8.0#0"; "PVMarq.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\PRODUTOENTREGA.FRM
+Object = "{EDF439C0-99E5-11CF-AFF3-004005100200}#8.0#0"; "PVMarq.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+***** PRODUTOENTREGA.frm
+      Tab(2).ControlEnabled=   0   'False
+      Tab(2).Control(0)=   "cmbMontadorAUX"
+      Tab(2).Control(1)=   "cmbMontador"
+      Tab(2).Control(2)=   "cmbEntregadorAUX"
+      Tab(2).Control(3)=   "cmbEntregador"
+      Tab(2).Control(4)=   "txtCNPJCPF"
+      Tab(2).Control(5)=   "cmdComercial"
+      Tab(2).Control(6)=   "cmdCobrança"
+      Tab(2).Control(7)=   "cmdResidencial"
+      Tab(2).Control(8)=   "txtPedido"
+      Tab(2).Control(9)=   "txtUF"
+      Tab(2).Control(10)=   "txtCep"
+      Tab(2).Control(11)=   "txtComp"
+      Tab(2).Control(12)=   "txtCidade"
+      Tab(2).Control(13)=   "txtBairro"
+      Tab(2).Control(14)=   "txtRua"
+      Tab(2).Control(15)=   "txtCliente"
+      Tab(2).Control(16)=   "cmdExcluir"
+      Tab(2).Control(17)=   "cmdLIMPAR"
+      Tab(2).Control(18)=   "cmdSAIR"
+      Tab(2).Control(19)=   "cmdGravar"
+      Tab(2).Control(20)=   "cmdPesquisar"
+      Tab(2).Control(21)=   "txtDtAgenda"
+      Tab(2).Control(22)=   "txtDtEntrega"
+      Tab(2).Control(23)=   "txtDtPedido"
+      Tab(2).Control(24)=   "FlexTel"
+      Tab(2).Control(25)=   "Label13"
+      Tab(2).Control(26)=   "Label4"
+      Tab(2).Control(27)=   "Line1(4)"
+      Tab(2).Control(28)=   "Line1(3)"
+      Tab(2).Control(29)=   "Line1(2)"
+      Tab(2).Control(30)=   "Line1(1)"
+      Tab(2).Control(31)=   "Label12"
+      Tab(2).Control(32)=   "Label11"
+      Tab(2).Control(33)=   "Label10"
+      Tab(2).Control(34)=   "Label9"
+      Tab(2).Control(35)=   "Label8"
+      Tab(2).Control(36)=   "Label7"
+      Tab(2).Control(37)=   "Label6"
+      Tab(2).Control(38)=   "Label5"
+      Tab(2).Control(39)=   "Line1(0)"
+      Tab(2).Control(40)=   "Label3"
+      Tab(2).Control(41)=   "Label2"
+      Tab(2).Control(42)=   "Label1"
+      Tab(2).ControlCount=   43
+***** C:\MEGASIM\RET\FORMS\PRODUTOENTREGA.FRM
+      Tab(2).ControlEnabled=   0   'False
+      Tab(2).Control(0)=   "Label1"
+      Tab(2).Control(1)=   "Label2"
+      Tab(2).Control(2)=   "Label3"
+      Tab(2).Control(3)=   "Line1(0)"
+      Tab(2).Control(4)=   "Label5"
+      Tab(2).Control(5)=   "Label6"
+      Tab(2).Control(6)=   "Label7"
+      Tab(2).Control(7)=   "Label8"
+      Tab(2).Control(8)=   "Label9"
+      Tab(2).Control(9)=   "Label10"
+      Tab(2).Control(10)=   "Label11"
+      Tab(2).Control(11)=   "Label12"
+      Tab(2).Control(12)=   "Line1(1)"
+      Tab(2).Control(13)=   "Line1(2)"
+      Tab(2).Control(14)=   "Line1(3)"
+      Tab(2).Control(15)=   "Line1(4)"
+      Tab(2).Control(16)=   "Label4"
+      Tab(2).Control(17)=   "Label13"
+      Tab(2).Control(18)=   "FlexTel"
+      Tab(2).Control(19)=   "txtDtPedido"
+      Tab(2).Control(20)=   "txtDtEntrega"
+      Tab(2).Control(21)=   "txtDtAgenda"
+      Tab(2).Control(22)=   "cmdPesquisar"
+      Tab(2).Control(23)=   "cmdGravar"
+      Tab(2).Control(24)=   "cmdSAIR"
+      Tab(2).Control(25)=   "cmdLIMPAR"
+      Tab(2).Control(26)=   "cmdExcluir"
+      Tab(2).Control(27)=   "txtCliente"
+      Tab(2).Control(28)=   "txtRua"
+      Tab(2).Control(29)=   "txtBairro"
+      Tab(2).Control(30)=   "txtCidade"
+      Tab(2).Control(31)=   "txtComp"
+      Tab(2).Control(32)=   "txtCep"
+      Tab(2).Control(33)=   "txtUF"
+      Tab(2).Control(34)=   "txtPedido"
+      Tab(2).Control(35)=   "cmdResidencial"
+      Tab(2).Control(36)=   "cmdCobrança"
+      Tab(2).Control(37)=   "cmdComercial"
+      Tab(2).Control(38)=   "txtCNPJCPF"
+      Tab(2).Control(39)=   "cmbEntregador"
+      Tab(2).Control(40)=   "cmbEntregadorAUX"
+      Tab(2).Control(41)=   "cmbMontador"
+      Tab(2).Control(42)=   "cmbMontadorAUX"
+      Tab(2).ControlCount=   43
+*****
+
+Comparando os arquivos PRODUTOFAMILIA.frm e C:\MEGASIM\RET\FORMS\PRODUTOFAMILIA.FRM
+***** PRODUTOFAMILIA.frm
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\PRODUTOFAMILIA.FRM
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos ProdutoTroca.frm e C:\MEGASIM\RET\FORMS\PRODUTOTROCA.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos PROGRESSO.frm e C:\MEGASIM\RET\FORMS\PROGRESSO.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos PROTECAO.frm e C:\MEGASIM\RET\FORMS\PROTECAO.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos RECEBECAIXA.frm e C:\MEGASIM\RET\FORMS\RECEBECAIXA.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos RegistroEJS.frm e C:\MEGASIM\RET\FORMS\REGISTROEJS.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos RELATORIO.frm e C:\MEGASIM\RET\FORMS\RELATORIO.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos RELISTAPRECO.frm e C:\MEGASIM\RET\FORMS\RELISTAPRECO.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos RELLISTAPRECO.frm e C:\MEGASIM\RET\FORMS\RELLISTAPRECO.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos RelPessoa.frm e C:\MEGASIM\RET\FORMS\RELPESSOA.FRM
+***** RelPessoa.frm
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\RELPESSOA.FRM
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos SENHA.frm e C:\MEGASIM\RET\FORMS\SENHA.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos SHFINFO.frm e C:\MEGASIM\RET\FORMS\SHFINFO.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos TabelaPreco.frm e C:\MEGASIM\RET\FORMS\TABELAPRECO.FRM
+***** TabelaPreco.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\TABELAPRECO.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+***** TabelaPreco.frm
+      Tab(1).Control(0)=   "cmbDestinoAUX"
+      Tab(1).Control(1)=   "cmbDestino"
+      Tab(1).Control(2)=   "CmdGravar"
+      Tab(1).Control(3)=   "txtDtCadDestino"
+      Tab(1).Control(4)=   "txtDestino"
+      Tab(1).Control(5)=   "txtDescDestino"
+      Tab(1).Control(6)=   "txtDtCadOrigem"
+      Tab(1).Control(7)=   "txtOrigem"
+      Tab(1).Control(8)=   "txtDescOrigem"
+      Tab(1).Control(9)=   "txtDtValOrigem"
+      Tab(1).Control(10)=   "txtDtValDestino"
+      Tab(1).Control(11)=   "lstOrigem"
+      Tab(1).Control(12)=   "lstDestino"
+      Tab(1).Control(13)=   "lblProc"
+      Tab(1).Control(14)=   "Label14(1)"
+      Tab(1).Control(15)=   "Label6"
+      Tab(1).Control(16)=   "Label17"
+      Tab(1).Control(17)=   "Label16"
+      Tab(1).Control(18)=   "Label15"
+      Tab(1).Control(19)=   "Label14(0)"
+      Tab(1).Control(20)=   "Label13"
+      Tab(1).Control(21)=   "lblMSG"
+      Tab(1).Control(22)=   "Label12"
+      Tab(1).Control(23)=   "Label11"
+      Tab(1).Control(24)=   "Line1(0)"
+      Tab(1).Control(25)=   "Label10"
+      Tab(1).ControlCount=   26
+***** C:\MEGASIM\RET\FORMS\TABELAPRECO.FRM
+      Tab(1).Control(0)=   "Label10"
+      Tab(1).Control(1)=   "Line1(0)"
+      Tab(1).Control(2)=   "Label11"
+      Tab(1).Control(3)=   "Label12"
+      Tab(1).Control(4)=   "lblMSG"
+      Tab(1).Control(5)=   "Label13"
+      Tab(1).Control(6)=   "Label14(0)"
+      Tab(1).Control(7)=   "Label15"
+      Tab(1).Control(8)=   "Label16"
+      Tab(1).Control(9)=   "Label17"
+      Tab(1).Control(10)=   "Label6"
+      Tab(1).Control(11)=   "Label14(1)"
+      Tab(1).Control(12)=   "lblProc"
+      Tab(1).Control(13)=   "lstDestino"
+      Tab(1).Control(14)=   "lstOrigem"
+      Tab(1).Control(15)=   "txtDtValDestino"
+      Tab(1).Control(16)=   "txtDtValOrigem"
+      Tab(1).Control(17)=   "txtDescOrigem"
+      Tab(1).Control(18)=   "txtOrigem"
+      Tab(1).Control(19)=   "txtDtCadOrigem"
+      Tab(1).Control(20)=   "txtDescDestino"
+      Tab(1).Control(21)=   "txtDestino"
+      Tab(1).Control(22)=   "txtDtCadDestino"
+      Tab(1).Control(23)=   "CmdGravar"
+      Tab(1).Control(24)=   "cmbDestino"
+      Tab(1).Control(25)=   "cmbDestinoAUX"
+      Tab(1).ControlCount=   26
+*****
+
+***** TabelaPreco.frm
+      Tab(2).ControlEnabled=   0   'False
+      Tab(2).Control(0)=   "lstTabela"
+      Tab(2).Control(1)=   "lstTabelaItem"
+      Tab(2).ControlCount=   2
+***** C:\MEGASIM\RET\FORMS\TABELAPRECO.FRM
+      Tab(2).ControlEnabled=   0   'False
+      Tab(2).Control(0)=   "lstTabelaItem"
+      Tab(2).Control(1)=   "lstTabela"
+      Tab(2).ControlCount=   2
+*****
+
+Comparando os arquivos TabelaPrecoConsulta.frm e C:\MEGASIM\RET\FORMS\TABELAPRECOCONSULTA.FRM
+***** TabelaPrecoConsulta.frm
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\TABELAPRECOCONSULTA.FRM
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos TRADUTOR.frm e C:\MEGASIM\RET\FORMS\TRADUTOR.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos TransfConsulta.frm e C:\MEGASIM\RET\FORMS\TRANSFCONSULTA.FRM
+***** TransfConsulta.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\TRANSFCONSULTA.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos TransfEstoque.frm e C:\MEGASIM\RET\FORMS\TRANSFESTOQUE.FRM
+***** TransfEstoque.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmTransfEstoque 
+***** C:\MEGASIM\RET\FORMS\TRANSFESTOQUE.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmTransfEstoque 
+*****
+
+***** TransfEstoque.frm
+      Tab(0).ControlEnabled=   0   'False
+      Tab(0).Control(0)=   "Label2"
+      Tab(0).Control(1)=   "Line1(1)"
+      Tab(0).Control(2)=   "Label6"
+      Tab(0).Control(3)=   "Label7"
+      Tab(0).Control(4)=   "Label4"
+      Tab(0).Control(5)=   "Label8"
+      Tab(0).Control(6)=   "Line1(0)"
+      Tab(0).Control(7)=   "Line2(0)"
+      Tab(0).Control(8)=   "Line2(1)"
+      Tab(0).Control(9)=   "lstDestino"
+      Tab(0).Control(10)=   "lstOrigem"
+      Tab(0).Control(11)=   "cmbOrigem"
+      Tab(0).Control(12)=   "cmdLimpar"
+      Tab(0).Control(13)=   "cmdInsere"
+      Tab(0).Control(14)=   "CmdRetirarTodos"
+      Tab(0).Control(15)=   "cmdRetira"
+      Tab(0).Control(16)=   "CmdInsereTodos"
+      Tab(0).Control(17)=   "CmdGravar"
+      Tab(0).Control(18)=   "txtCodgProd"
+      Tab(0).Control(19)=   "cmdConsProd2"
+      Tab(0).Control(20)=   "txtDesc2"
+      Tab(0).Control(21)=   "txtQtdeTransf"
+      Tab(0).Control(22)=   "cmbDestino"
+      Tab(0).Control(23)=   "cmbDestinoAUX"
+      Tab(0).Control(24)=   "cmbOrigemAUX"
+      Tab(0).Control(25)=   "cmdTransf"
+      Tab(0).Control(26)=   "txtTransf_ID"
+      Tab(0).ControlCount=   27
+***** C:\MEGASIM\RET\FORMS\TRANSFESTOQUE.FRM
+      Tab(0).ControlEnabled=   0   'False
+      Tab(0).Control(0)=   "txtTransf_ID"
+      Tab(0).Control(1)=   "cmdTransf"
+      Tab(0).Control(2)=   "cmbOrigemAUX"
+      Tab(0).Control(3)=   "cmbDestinoAUX"
+      Tab(0).Control(4)=   "cmbDestino"
+      Tab(0).Control(5)=   "txtQtdeTransf"
+      Tab(0).Control(6)=   "txtDesc2"
+      Tab(0).Control(7)=   "cmdConsProd2"
+      Tab(0).Control(8)=   "txtCodgProd"
+      Tab(0).Control(9)=   "CmdGravar"
+      Tab(0).Control(10)=   "CmdInsereTodos"
+      Tab(0).Control(11)=   "cmdRetira"
+      Tab(0).Control(12)=   "CmdRetirarTodos"
+      Tab(0).Control(13)=   "cmdInsere"
+      Tab(0).Control(14)=   "cmdLimpar"
+      Tab(0).Control(15)=   "cmbOrigem"
+      Tab(0).Control(16)=   "lstOrigem"
+      Tab(0).Control(17)=   "lstDestino"
+      Tab(0).Control(18)=   "Line2(1)"
+      Tab(0).Control(19)=   "Line2(0)"
+      Tab(0).Control(20)=   "Line1(0)"
+      Tab(0).Control(21)=   "Label8"
+      Tab(0).Control(22)=   "Label4"
+      Tab(0).Control(23)=   "Label7"
+      Tab(0).Control(24)=   "Label6"
+      Tab(0).Control(25)=   "Line1(1)"
+      Tab(0).Control(26)=   "Label2"
+      Tab(0).ControlCount=   27
+*****
+
+Comparando os arquivos TROCASENHA.frm e C:\MEGASIM\RET\FORMS\TROCASENHA.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos VENDACOMISSAO.frm e C:\MEGASIM\RET\FORMS\VENDACOMISSAO.FRM
+***** VENDACOMISSAO.frm
+Object = "{BDC217C8-ED16-11CD-956C-0000C04E4C0A}#1.1#0"; "TABCTL32.OCX"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\VENDACOMISSAO.FRM
+Object = "{BDC217C8-ED16-11CD-956C-0000C04E4C0A}#1.1#0"; "TABCTL32.OCX"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+***** VENDACOMISSAO.frm
+      Tab(1).ControlEnabled=   0   'False
+      Tab(1).Control(0)=   "Frame6"
+      Tab(1).Control(1)=   "Frame3"
+      Tab(1).Control(2)=   "Frame4"
+      Tab(1).Control(3)=   "Line2(3)"
+      Tab(1).Control(4)=   "Label2"
+      Tab(1).Control(5)=   "Line3(2)"
+      Tab(1).Control(6)=   "Line4"
+      Tab(1).Control(7)=   "Line2(2)"
+      Tab(1).ControlCount=   8
+***** C:\MEGASIM\RET\FORMS\VENDACOMISSAO.FRM
+      Tab(1).ControlEnabled=   0   'False
+      Tab(1).Control(0)=   "Line2(2)"
+      Tab(1).Control(1)=   "Line4"
+      Tab(1).Control(2)=   "Line3(2)"
+      Tab(1).Control(3)=   "Label2"
+      Tab(1).Control(4)=   "Line2(3)"
+      Tab(1).Control(5)=   "Frame4"
+      Tab(1).Control(6)=   "Frame3"
+      Tab(1).Control(7)=   "Frame6"
+      Tab(1).ControlCount=   8
+*****
+
+Comparando os arquivos VENDACONSULTA.frm e C:\MEGASIM\RET\FORMS\VENDACONSULTA.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos VENDACUSTO.frm e C:\MEGASIM\RET\FORMS\VENDACUSTO.FRM
+***** VENDACUSTO.frm
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+***** C:\MEGASIM\RET\FORMS\VENDACUSTO.FRM
+Object = "{1AF1F43C-1DE4-44ED-B0FD-A49A4EAA03A6}#4.0#0"; "IGResizer40.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+*****
+
+Comparando os arquivos VENDADESCONTO.frm e C:\MEGASIM\RET\FORMS\VENDADESCONTO.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos VENDAECF.frm e C:\MEGASIM\RET\FORMS\VENDAECF.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos VENDAECF2.frm e C:\MEGASIM\RET\FORMS\VENDAECF2.FRM
+FC: nenhuma diferen‡a encontrada
+
+Comparando os arquivos VERIFICARNOTAGERA.frm e C:\MEGASIM\RET\FORMS\VERIFICARNOTAGERA.FRM
+FC: nenhuma diferen‡a encontrada
+

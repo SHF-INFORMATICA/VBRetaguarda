@@ -1,0 +1,9 @@
+Line 156: Class MSMask.MaskEdBox of control txtCNPJCPF was not a loaded control class.
+Line 317: Class Threed.SSOption of control optSintetico was not a loaded control class.
+Line 337: Class Threed.SSOption of control optAnalitico was not a loaded control class.
+Line 410: Class MSMask.MaskEdBox of control txtDtIni was not a loaded control class.
+Line 433: Class MSMask.MaskEdBox of control txtDtFim was not a loaded control class.
+Line 499: Class MSComctlLib.Toolbar of control Toolbar1 was not a loaded control class.
+Line 567: Class MSComctlLib.ImageList of control ImageList2 was not a loaded control class.
+Line 614: Class MSComctlLib.ListView of control lstTitulos was not a loaded control class.
+Line 719: Class ActiveResizer.SSResizer of control SSResizer1 was not a loaded control class.

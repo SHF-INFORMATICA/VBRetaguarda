@@ -1,0 +1,11 @@
+Line 31: Class TabDlg.SSTab of control SSTab1 was not a loaded control class.
+Line 1172: Class MSDataGridLib.DataGrid of control grdFamilia was not a loaded control class.
+Line 1287: Class MSAdodcLib.Adodc of control adoFamilia was not a loaded control class.
+Line 2318: Class MSComctlLib.ListView of control LISTAVENDA was not a loaded control class.
+Line 2421: Class MSComctlLib.ListView of control LISTAPAGTO was not a loaded control class.
+Line 2481: Class MSComctlLib.ListView of control LISTAENTRADA was not a loaded control class.
+Line 2521: Class MSComctlLib.ListView of control LISTACFOP was not a loaded control class.
+Line 2591: Class MSComctlLib.ListView of control LISTADESCR was not a loaded control class.
+Line 2637: Class MSAdodcLib.Adodc of control adoCSOSN was not a loaded control class.
+Line 2683: Class MSAdodcLib.Adodc of control adoCST was not a loaded control class.
+Line 3318: Class ActiveResizer.SSResizer of control SSResizer1 was not a loaded control class.

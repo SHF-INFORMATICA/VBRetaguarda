@@ -1,0 +1,4 @@
+Line 48: Class MSComctlLib.Toolbar of control Toolbar1 was not a loaded control class.
+Line 101: Class MSComctlLib.ImageList of control ImageList2 was not a loaded control class.
+Line 163: Class MSDataGridLib.DataGrid of control Grid was not a loaded control class.
+Line 251: Class MSAdodcLib.Adodc of control ADOMenu was not a loaded control class.

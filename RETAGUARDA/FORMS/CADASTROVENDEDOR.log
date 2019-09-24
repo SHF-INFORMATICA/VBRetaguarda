@@ -1,0 +1,12 @@
+Line 125: Class MSMask.MaskEdBox of control txtCep was not a loaded control class.
+Line 270: Class MSComctlLib.Toolbar of control Toolbar1 was not a loaded control class.
+Line 296: Class MSDataGridLib.DataGrid of control Grid was not a loaded control class.
+Line 385: Class MSAdodcLib.Adodc of control ADOCabeca was not a loaded control class.
+Line 432: Class MSComctlLib.ListView of control lstEstab was not a loaded control class.
+Line 658: Class MSMask.MaskEdBox of control txtCPF was not a loaded control class.
+Line 680: Class MSMask.MaskEdBox of control txtDTNasc was not a loaded control class.
+Line 705: Class MSMask.MaskEdBox of control txtDtCad was not a loaded control class.
+Line 730: Class MSMask.MaskEdBox of control txtDtBaixa was not a loaded control class.
+Line 857: Class MSComctlLib.Toolbar of control barVendedor was not a loaded control class.
+Line 921: Class MSComctlLib.ImageList of control ImageList1 was not a loaded control class.
+Line 963: Class ActiveResizer.SSResizer of control SSResizer1 was not a loaded control class.

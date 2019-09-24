@@ -1,0 +1,8 @@
+Line 91: Class MSComctlLib.Toolbar of control Toolbar1 was not a loaded control class.
+Line 135: Class MSComctlLib.ImageList of control ImageList2 was not a loaded control class.
+Line 170: Class MSMask.MaskEdBox of control txtCNPJCPF was not a loaded control class.
+Line 192: Class MSComctlLib.ListView of control lstCampos was not a loaded control class.
+Line 230: Class Threed.SSCommand of control cmdGrid was not a loaded control class.
+Line 251: Class Threed.SSCommand of control cmdExportar was not a loaded control class.
+Line 272: Class MSDataGridLib.DataGrid of control grdCampos was not a loaded control class.
+Line 342: Class MSAdodcLib.Adodc of control adoCampos was not a loaded control class.

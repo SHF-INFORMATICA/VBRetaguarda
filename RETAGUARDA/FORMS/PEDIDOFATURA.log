@@ -1,0 +1,7 @@
+Line 169: Class MSComctlLib.Toolbar of control Toolbar1 was not a loaded control class.
+Line 208: Class MSComctlLib.ImageList of control ImageList2 was not a loaded control class.
+Line 247: Class ActiveResizer.SSResizer of control SSResizer1 was not a loaded control class.
+Line 258: Class MSMask.MaskEdBox of control txtDtIni was not a loaded control class.
+Line 283: Class MSMask.MaskEdBox of control txtDtFim was not a loaded control class.
+Line 308: Class MSDataGridLib.DataGrid of control grdPedido was not a loaded control class.
+Line 423: Class MSAdodcLib.Adodc of control adoPedido was not a loaded control class.

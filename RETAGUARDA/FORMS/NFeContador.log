@@ -1,0 +1,4 @@
+Line 30: Class TabDlg.SSTab of control SSTab1 was not a loaded control class.
+Line 99: Class Threed.SSCommand of control cmdEnviar was not a loaded control class.
+Line 173: Class MSMAPI.MAPISession of control MAPIConecta was not a loaded control class.
+Line 183: Class MSMAPI.MAPIMessages of control MAPIEnvia was not a loaded control class.

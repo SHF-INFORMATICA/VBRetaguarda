@@ -1,0 +1,95 @@
+Visual Basic 6	.NET Equivalente
+App.Path	Application.StartupPath
+CallByName	Type Object.InvokeMember
+Circle	Graphics Object.DrawEllipse
+Collection	Collections.Hashtable, Collections.Dictionary
+Command	Environment.GetCommandLineArgs
+DoEvents	Application.DoEvents
+Environ	Environment.GetEnvironmentVariable
+Err	Depreciado - Use Exception object and Try ... Catch ... End Try statement
+Error	Exception Object.Message
+GetSetting	Depreciado - Look into Configuration.ConfigurationSettings
+IIf	Depreciado
+InputBox	Função InputBox (Visual Basic) - MSDN - Microsoft
+Len	Runtime.InteropServices.Marshal.SizeOf
+MsgBox	MessageBox.Show
+RGB	Color Object.FromArgb
+SavePicture	Image Object.Save
+SaveSetting	Depreciado - Look into Configuration.ConfigurationSettings
+SendKeys	SendKeys.Send
+Shell	Process.Start
+Switch	Depreciado
+TypeName	Any Object.GetType.ToString
+Unload	Depreciado
+VarType	Any Object.GetType
+Strings
+Visual Basic 6	.NET Equivalente
+Asc	Convert.ToInt32(Char)
+Chr	Convert.ToChar
+Format	Any Object.ToString(Format String)
+FormatCurrency	Any Numeric Object.ToString("c")
+FormatDateTime	Date Object.ToString(Format String), Date Object.ToLongDateString
+FormatNumber	Any Numeric Object.ToString(Format String)
+FormatPercent	Any Numeric Object.ToString("p")
+Hex	Integer Object.ToString("x"), Convert.ToString(Integer, 16)
+InStr	String Object.IndexOf
+InStrRev	String Object.LastIndexOf
+Join	String.Join
+LCase	String Object.ToLower
+Left	String Object.Substring
+Len	String Object.Length
+LTrim	String Object.TrimStart
+Mid	String Object.Substring
+Oct	Convert.ToString(Integer, 8)
+Replace	String Object.Replace
+Right	String Object.Substring
+RTrim	String Object.TrimEnd
+Space	String Object.PadLeft, String Object.PadRight
+Split	String Object.Split
+String	String Object = New String(Char, Count)
+StrReverse	Dim c() As Char = Array.Reverse(String Object.ToCharArray)
+Trim	String Object.Trim
+UCase	String Object.ToUpper
+ 
+
+Arquivos e Diretórios
+Visual Basic 6	.NET Equivalente
+ChDir	IO.Directory.SetCurrentDirectory
+CurDir	IO.Directory.GetCurrentDirectory
+Dir	IO.Directory.GetFiles, IO.Directory.GetDirectories, IO.Directory.Exists, IO.File.Exists
+EOF	IO.StreamReader.Peek = -1
+FileAttr	Depreciado - Use StreamReader ou StreamWriter
+FileCopy	IO.File.Copy
+FileDateTime	IO.File.GetLastAccessTime, IO.File.GetCreationTime
+FileLen	IO.FileStream Object.Length
+GetAttr	IO.File.GetAttributes
+Loc	IO.Stream Object.Position
+LOF	IO.Stream Object.Length
+MkDir	IO.Directory.CreateDirectory
+RmDir	IO.Directory.Delete
+SetAttr	IO.File.SetAttributes
+Arrays
+Visual Basic 6	.NET Equivalent
+Filter	Array.BinarySearch
+UBound	Any Type of Array.GetUpperBound(0)
+Date e Time
+Visual Basic 6	.NET Equivalente
+DateAdd	Date Object.Add
+DateDiff	Date Object.Subtract
+Now	DateTime.Now
+Math
+Visual Basic 6	.NET Equivalente
+Abs	Math.Abs
+Atn	Math.Atan
+Cos	Math.Cos
+Exp	Math.Exp
+Fix	Math.Truncate, Math.Floor (para nos negativos), Math.Ceiling (p/no. positivos)
+Int	Math.Floor
+Log	Math.Log
+Randomize	Depreciado - Random Object is automatically randomized declared
+Rnd	System.Random Object.Next
+Round	Math.Round
+Sgn	Math.Sign
+Sin	Math.Sin
+Sqr	Math.Sqrt
+Tan	Math.Tan

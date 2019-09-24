@@ -1,0 +1,11 @@
+Line 28: Class TabDlg.SSTab of control SSTab1 was not a loaded control class.
+Line 432: Class MSComctlLib.ListView of control lstSaldo was not a loaded control class.
+Line 479: Class MSComctlLib.ListView of control LISTAMOD was not a loaded control class.
+Line 520: Class MSComctlLib.ListView of control lstListaLançamentos was not a loaded control class.
+Line 592: Class MSMask.MaskEdBox of control txtDtIni was not a loaded control class.
+Line 617: Class MSMask.MaskEdBox of control txtDtFim was not a loaded control class.
+Line 642: Class MSComctlLib.ListView of control lstForma was not a loaded control class.
+Line 686: Class MSComctlLib.ListView of control lstCC was not a loaded control class.
+Line 911: Class MSComctlLib.Toolbar of control Toolbar1 was not a loaded control class.
+Line 954: Class MSComctlLib.ImageList of control ImageList2 was not a loaded control class.
+Line 985: Class ActiveResizer.SSResizer of control SSResizer1 was not a loaded control class.

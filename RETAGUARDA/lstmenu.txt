@@ -1,0 +1,111 @@
+mnucad2 Menu Cadastros
+mnucad2Emp Cadastra Empresa
+mnuParametro Cadastra Parametros Empresa
+mnucadUsu Cadastro de Usuário
+mnuClientes Cadastro de Clientes
+mnuFornec Cadastro de Fornecedores
+mnuVendedor Cadastro Vendedor
+mnuTrans Cadastro Transportadora
+mnuIBGE Cadastro Código IBGE
+mnuCEP Cadastro CEP
+MNUpRG Programa Menu
+MNUACESSO Controle de Acesso
+mnucadSenha Troca Senha
+mnucadTr -
+mnucadFim Fim
+mnuCons Menu Consultas
+mnuConsPedido Consulta Pedido
+mnuConsVendaCusto Consulta Venda/Custo
+mnuConsultaProduto Consulta Produto
+mnuConsCliente Consulta Cliente/Venda
+mnuConsCliSimp Consulta Cliente Simplificado
+mnuComissao Comissão
+mnuComissaoRel Relatório Comissão
+mnuCAIXA Menu Caixa
+mnuCancelaPedido Cancela Pedido
+mnuTesoura Menu Caixa Tesoraria
+mnuAbCxTesoura Abertura Caixa Tesouraria
+mnuLancCxTeosura Lancamento Caixa Tesouraria
+mnuFechaTesoura Fechamento Caixa Tesouraria
+mnuCAIXAbalcaoRELdiario Relatório Caixa
+mnuEstoque Menu Estoque
+mnuEstoqueCAD Menu Cadastros
+mnuEstoqueCADPRODUTO Cadastro Produto
+mnuEstoqueCADMarkup Atualiza Preço Produto
+mnuEstoqueCADIVA IVA UF Produto
+mnuEstoqueProc Menu Processo
+mnuEstoqueProcEntra Nota Fiscal Entrada
+mnuEstoqueProcCancela Cancelar Nota Fiscal Entrada
+mnuEstoqueCons Menu Consultas
+mnuEstoqueConsKardex Consulta Kardex
+mnuEstoqueConsCurvaABC Curva ABC
+mnuEstoqueConsEntrada Consulta Nf Entrada
+mnuEstoqueRel Menu Relatórios
+mnuEstoqueRelEntrada Rel de Entrada
+mnuEstoqueRellISTAR Lista de Preços
+mnuInventario Menu Inventário
+mnuContagem Acerto/Contagem Estoque
+mnuInventarioCons Consulta Inventário
+mnuFinanceiro Menu Financeiro
+mnuLancReceber Lançamento Contas a Receber
+mnuConsultaReceber Consultar Contas a Receber
+MNUCONTASPAGAR Lançamento Contas a Pagar
+mnuConPagar Consultar Contas a Pagar
+mnuCancelaVenda Cancelar Pedido
+MNUCENTROCUSTO Cadastro Centro de Custo
+MNUBANCO Menu Banco
+MNUCADBANCO Cadastro Banco
+MNUAGENCIA Cadastro Agencia
+mnuConta Cadastro Conta Corrente
+mnuCheque Cadastra Cheque
+MNUCONCHEQUE Consulta Cheque
+mnuNFe Menu NFE
+mnuNfePedido Pedido NFe
+mnuNfeEmissao Consulta NFe
+mnuNfeManut Manutenção NFe
+mnuNfeDevolucao Devolução NFe
+mnuNFeCarta Carta de Correção
+mnuCOMPRAS Menu Compras
+mnuPEDIDOCOMPRAS Pedido de Compras
+barINI Barra Opções
+barINI.Buttons.Item(1) Pedido Venda
+barINI.Buttons.item(2) Cliente
+barINI.Buttons.item(3) Produto
+barINI.Buttons.Item(4) Recebimento
+barINI.Buttons.Item(5) Entrega
+barINI.Buttons.Item(7) Sair
+Form_KeyDown Eventos Formulário Inicial
+mnuConsProdSimp Produto Simplificado
+mnuImpCEP Importa CEP e IBGE
+mnuImporta Menu Integração
+mnuEstoqueConsEst Posição Estoque
+mnNfeMegasimNfe Megasim NFe
+mnuEstoqueRelContador Inventário/Contador
+mnuImporta12741 IMPORTA12741
+mnuFinanceiroACFUNC Acerto de Funcionário
+mnuFinanceiroACcli Acerto de Clientes
+mnucad2Cartao Cadastro Cartão Barras
+MNUESTOQUEtabelapreco Tabela Preço
+mnuEstoqueProcEntradaAvulsa Entrada Produto Estoque
+mnuConsPedidoLiberacao Consulta Liberação Pedido
+mnuInventarioTransf Transferência Estoque
+mnuConsPedidoAtendente Consulta Pedido Atendente
+mnuImportaMGV MGV
+mnuProdPerda Controle Perda Produtos
+mnuProdProducao Registro de Produção
+mnuConsCliRel Cliente Por Estabelecimento
+mnuConsPedidoHora Consulta Pedido Hora
+mnuConsPedidoFatura Pedido Faturamento
+mnuESTOQUE Menu Estoque
+mnuProd Menu Produção
+mnuInventarioProcMP MP Estoque
+mnuEquipe Cadastro Equipe Venda
+mnuConsCliRelVenda Cliente/Estabelecimento/Venda
+mnuEstoqueCADProdPromo Cadastro Promoção Produto
+mnuEstoqueConsProdPromo Produtos Promoção
+mnuConsAgendaServico Agenda Serviços
+mnuTurno Cadastro Turno Trabalho
+mnuProdRPPV RESUMO PRODUÇAO/PERDA/VENDAS
+mnuEstoqueConsItens Consulta Faturamento Produtos
+mnuAbCxTesouraReabre Reabertura Caixa Tesouraria
+mnuCAIXAAbreBalcao Abre Caixa Balcão

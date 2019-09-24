@@ -1,0 +1,11 @@
+Line 48: Class ActiveResizer.SSResizer of control SSResizer1 was not a loaded control class.
+Line 59: Class MSComctlLib.StatusBar of control BARRAECF was not a loaded control class.
+Line 87: Class TabDlg.SSTab of control SSTab1 was not a loaded control class.
+Line 535: Class MSMask.MaskEdBox of control txtDtAgenda was not a loaded control class.
+Line 548: Class MSMask.MaskEdBox of control txtDtEntrega was not a loaded control class.
+Line 570: Class MSMask.MaskEdBox of control txtDtPedido was not a loaded control class.
+Line 585: Class MSComctlLib.ListView of control lstENTREGA was not a loaded control class.
+Line 672: Class MSComctlLib.ListView of control lstRealizada was not a loaded control class.
+Line 764: Class MSFlexGridLib.MSFlexGrid of control FlexTel was not a loaded control class.
+Line 791: Class MSComctlLib.ListView of control lstPedidoItem was not a loaded control class.
+Line 999: Class PVMarqueeLib.PVMarquee of control PVMarquee1 was not a loaded control class.

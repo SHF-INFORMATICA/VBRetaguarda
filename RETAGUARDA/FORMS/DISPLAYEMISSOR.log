@@ -1,0 +1,6 @@
+Line 62: Class MSComctlLib.ListView of control LISTAITEM was not a loaded control class.
+Line 137: Class MSComctlLib.ListView of control lstPedidos was not a loaded control class.
+Line 241: Class MSMask.MaskEdBox of control txtCNPJCPF was not a loaded control class.
+Line 262: Class ActiveResizer.SSResizer of control SSResizer1 was not a loaded control class.
+Line 273: Class MSComctlLib.ListView of control lstTotais was not a loaded control class.
+Line 309: Class MSComctlLib.StatusBar of control barRodape was not a loaded control class.

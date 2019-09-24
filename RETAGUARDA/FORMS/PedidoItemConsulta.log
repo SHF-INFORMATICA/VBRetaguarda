@@ -1,0 +1,6 @@
+Line 135: Class MSComctlLib.Toolbar of control Toolbar1 was not a loaded control class.
+Line 191: Class MSComctlLib.ImageList of control ImageList2 was not a loaded control class.
+Line 230: Class ActiveResizer.SSResizer of control SSResizer1 was not a loaded control class.
+Line 241: Class MSComctlLib.ListView of control lstItens was not a loaded control class.
+Line 290: Class MSMask.MaskEdBox of control txtDtIni was not a loaded control class.
+Line 315: Class MSMask.MaskEdBox of control txtDtFim was not a loaded control class.

@@ -1,0 +1,9 @@
+Line 112: Class Threed.SSOption of control optRecebimento was not a loaded control class.
+Line 124: Class MSMask.MaskEdBox of control txtDtIni was not a loaded control class.
+Line 147: Class MSMask.MaskEdBox of control txtDtFim was not a loaded control class.
+Line 172: Class Threed.SSOption of control optPedido was not a loaded control class.
+Line 183: Class MSComctlLib.ListView of control lstForma was not a loaded control class.
+Line 272: Class Threed.SSOption of control optCaixaBalcao was not a loaded control class.
+Line 293: Class Threed.SSOption of control optCaixaTesoraria was not a loaded control class.
+Line 314: Class Threed.SSCommand of control cmdSair was not a loaded control class.
+Line 338: Class Threed.SSCommand of control cmdImprimir was not a loaded control class.

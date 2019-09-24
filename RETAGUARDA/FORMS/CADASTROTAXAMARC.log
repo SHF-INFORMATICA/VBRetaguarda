@@ -1,0 +1,17 @@
+Line 29: Class MSComctlLib.Toolbar of control Toolbar1 was not a loaded control class.
+Line 81: Class MSComctlLib.ImageList of control ImageList2 was not a loaded control class.
+Line 120: Class TabDlg.SSTab of control SSTab1 was not a loaded control class.
+Line 812: Class MSComctlLib.ListView of control LISTAVENDA was not a loaded control class.
+Line 875: Class MSComctlLib.ListView of control LISTAPAGTO was not a loaded control class.
+Line 915: Class MSComctlLib.ListView of control LISTAENTRADA was not a loaded control class.
+Line 955: Class MSComctlLib.ListView of control LISTACFOP was not a loaded control class.
+Line 1000: Class MSMask.MaskEdBox of control txtDtMovimento was not a loaded control class.
+Line 1022: Class MSComctlLib.ListView of control LISTA_PROD_GRP was not a loaded control class.
+Line 1075: Class MSMask.MaskEdBox of control txtCNPJCPF_FORNEC was not a loaded control class.
+Line 1098: Class MSComctlLib.ListView of control LISTA_ALT was not a loaded control class.
+Line 1157: Class MSComctlLib.ListView of control lstProdutoPreço was not a loaded control class.
+Line 1210: Class MSComctlLib.ListView of control lstMercado was not a loaded control class.
+Line 1254: Class MSComctlLib.ListView of control lstFamilia was not a loaded control class.
+Line 1298: Class MSFlexGridLib.MSFlexGrid of control MSFlexGrid1 was not a loaded control class.
+Line 2034: Class MSComctlLib.ImageList of control ImageList1 was not a loaded control class.
+Line 2080: Class ActiveResizer.SSResizer of control SSResizer1 was not a loaded control class.

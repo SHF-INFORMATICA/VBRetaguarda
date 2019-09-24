@@ -1,0 +1,5 @@
+Line 30: Class TabDlg.SSTab of control SSTab1 was not a loaded control class.
+Line 512: Class MSMask.MaskEdBox of control txtDtIni was not a loaded control class.
+Line 535: Class MSMask.MaskEdBox of control txtDtfim was not a loaded control class.
+Line 725: Class MSComctlLib.Toolbar of control Toolbar1 was not a loaded control class.
+Line 778: Class MSComctlLib.ImageList of control ImageList2 was not a loaded control class.

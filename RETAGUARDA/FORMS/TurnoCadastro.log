@@ -1,0 +1,6 @@
+Line 55: Class MSMask.MaskEdBox of control txtDtIni was not a loaded control class.
+Line 80: Class MSMask.MaskEdBox of control txtDtFim was not a loaded control class.
+Line 105: Class MSComctlLib.Toolbar of control Toolbar1 was not a loaded control class.
+Line 144: Class MSComctlLib.ImageList of control ImageList1 was not a loaded control class.
+Line 187: Class MSDataGridLib.DataGrid of control grdTurno was not a loaded control class.
+Line 257: Class MSAdodcLib.Adodc of control adoTurno was not a loaded control class.
